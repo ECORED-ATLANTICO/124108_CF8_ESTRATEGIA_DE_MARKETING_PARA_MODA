@@ -17,413 +17,302 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Fundamentos digitales.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> verificar la comprensión de conceptos clave de publicidad, contenidos, comunidades y audiencias en el Sistema Moda.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!.',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
-          texto: 'PREGUNTA1',
+          texto: 'La publicidad digital solo funciona en redes sociales.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 2,
-          texto: 'PREGUNTA2',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto: 'El SEM implica inversión pagada en buscadores.',
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 3,
-          texto: 'PREGUNTA3',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto: 'El calendario de contenidos organiza publicaciones.',
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 4,
-          texto: 'PREGUNTA4',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto:
+            'En los contenidos digitales, las etiquetas no influyen en la visibilidad.',
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 5,
-          texto: 'PREGUNTA5',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto:
+            'En el plan marketing digital, los objetivos guían la estrategia.',
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 6,
-          texto: 'PREGUNTA6',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto:
+            'Para el plan de marketing digital, las metas no deben ser medibles.',
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 7,
-          texto: 'PREGUNTA7',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto: 'Las comunidades virtuales requieren de interacción.',
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 8,
-          texto: 'PREGUNTA8',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto: 'En las comunidades virtuales los roles no son necesarios.',
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 9,
-          texto: 'PREGUNTA9',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: 'Segmentar una audiencia mejora la precisión del mensaje.',
+          imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 10,
-          texto: 'PREGUNTA10',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: 'Todas las audiencias responden igual.',
+          imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'OPCION1',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'OPCION2',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'OPCION3',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'OPCION4',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 11,
-          texto: 'PREGUNTA11',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: 'Las tendencias influyen en la pauta publicitaria.',
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: true,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 12,
-          texto: 'PREGUNTA12',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto:
+            'En los contenidos digitales, la parrilla define frecuencia temática',
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 13,
-          texto: 'PREGUNTA13',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          texto:
+            'En un plan de marketing digital, el público objetivo es opcional.',
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 14,
-          texto: 'PREGUNTA14',
+          texto:
+            'Las reglas digitales en las comunidades virtuales son irrelevantes.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: true,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 15,
-          texto: 'PREGUNTA15',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          texto: 'La medición de las audiencias permite su optimización.',
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 16,
+          texto:
+            'Los medios virtuales amplían cobertura en la publicidad digital.',
+          imagen: require('@/assets/actividad/imagen6.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 17,
+          texto: 'Todo contenido digital genera engagement.',
+          imagen: require('@/assets/actividad/imagen7.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: false },
+            { id: 'b', texto: 'Falso', esCorrecta: true },
+          ],
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 18,
+          texto:
+            'En un plan de marketing digital, el SEO y el SEM son complementarios.',
+          imagen: require('@/assets/actividad/imagen8.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 19,
+          texto:
+            'En las comunidades virtuales, la estructura organiza la interacción.',
+          imagen: require('@/assets/actividad/imagen9.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 20,
+          texto: 'Conocer al público audiencia, mejora su conversión.',
+          imagen: require('@/assets/actividad/imagen10.png'),
+          barajarRespuestas: true,
+          opciones: [
+            { id: 'a', texto: 'Verdadero', esCorrecta: true },
+            { id: 'b', texto: 'Falso', esCorrecta: false },
+          ],
+          mensaje_correcto:
+            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
       ],
       mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',

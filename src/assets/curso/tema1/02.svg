@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76.597" height="76.597" viewBox="0 0 76.597 76.597">
+  <defs>
+    <filter id="Elipse_11494" x="0" y="0" width="76.597" height="76.597" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1233397" data-name="Grupo 1233397" transform="translate(-591 -976.191)">
+    <g id="Grupo_1219749" data-name="Grupo 1219749" transform="translate(600 982.191)">
+      <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Elipse_11494)">
+        <g id="Elipse_11494-2" data-name="Elipse 11494" transform="translate(9 6)" fill="#e1e7fb" stroke="#fff" stroke-width="4">
+          <circle cx="29.298" cy="29.298" r="29.298" stroke="none"/>
+          <circle cx="29.298" cy="29.298" r="27.298" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="_02" data-name="02" transform="translate(618.137 1017.934)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">02</tspan></text>
+  </g>
+</svg>
