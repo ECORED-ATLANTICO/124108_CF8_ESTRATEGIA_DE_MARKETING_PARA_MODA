@@ -353,7 +353,7 @@
         figure
           img(src="@/assets/curso/tema1/26.png", data-aos="zoom-in")
       .col-lg-6
-        AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-11")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-17")
           div(titulo="Inteligencia artificial en publicidad")
             p.ms-5 Optimiza campañas digitales mediante algoritmos predictivos que analizan comportamientos y mejoran automáticamente la segmentación y conversión de anuncios.
           div(titulo="Contenido generado por usuarios (UGC)")
