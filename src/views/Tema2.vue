@@ -88,70 +88,72 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.2 Tipos
     
-    .row.mb-5.justify-content-center.align-items-center
-      .col-lg-4.mb-3.mb-lg-0
-        figure
-          img(src="@/assets/curso/tema2/9.png", data-aos="zoom-in")
-      .col-lg-8
-        p.mb-0(data-aos="fade-right") Los tipos de contenido digital en el sistema moda pueden clasificarse según su formato, intención comunicativa y nivel de interacción, cada tipo cumple una función estratégica distinta dentro del embudo de marketing. Entre los principales tipos se encuentran:
-    
-    .bg-full-width.bg-fondo-slider.tarjeta.mb-5
-      .p-4.p-lg-5
-        SlyderA(tipo="b").bg-color-white.p-4.tarjeta
-          .row.justify-content-center.align-items-center.p-3.p-lg-4
-            .col-lg-4.mb-3.mb-lg-0.order-2
-              figure
-                img(src='@/assets/curso/tema2/10.png', alt='Imagen de acompañamiento')
-            .col-lg-8.mb-4.mb-md-0.order-1
-              h4 Contenido informativo
-              p.mb-0 Publicaciones educativas y explicativas que aportan valor al público. Incluye guías sobre cómo combinar prendas, consejos de estilo, cuidado de la ropa, tendencias de temporada y recomendaciones para elegir prendas según la ocasión o tipo de cuerpo. Su objetivo es posicionar la marca como referente en moda y generar confianza.
-          .row.justify-content-center.align-items-center.p-3.p-lg-4
-            .col-lg-4.mb-3.mb-lg-0.order-2
-              figure
-                img(src='@/assets/curso/tema2/11.png', alt='Imagen de acompañamiento')
-            .col-lg-8.mb-4.mb-md-0.order-1
-              h4 Contenido promocional
-              p.mb-0 Piezas enfocadas en impulsar la venta directa. Incluye ofertas especiales, descuentos, lanzamientos de nuevas colecciones, promociones por tiempo limitado, beneficios exclusivos y llamados claros a la acción para incentivar la compra inmediata.
-          .row.justify-content-center.align-items-center.p-3.p-lg-4
-            .col-lg-4.mb-3.mb-lg-0.order-2
-              figure
-                img(src='@/assets/curso/tema2/12.png', alt='Imagen de acompañamiento')
-            .col-lg-8.mb-4.mb-md-0.order-1
-              h4 Contenido experiencial
-              p.mb-0 Muestra la experiencia real de los clientes con la marca. Incluye testimonios, reseñas, fotos o videos de clientes, <em>unboxings</em> y demostraciones de uso. Su propósito es generar credibilidad, prueba social y confianza en los productos.
-          .row.justify-content-center.align-items-center.p-3.p-lg-4
-            .col-lg-4.mb-3.mb-lg-0.order-2
-              figure
-                img(src='@/assets/curso/tema2/13.png', alt='Imagen de acompañamiento')
-            .col-lg-8.mb-4.mb-md-0.order-1
-              h4 Contenido aspiracional
-              p.mb-0 Presenta la marca en un contexto inspirador y emocional. Incluye editoriales de moda, sesiones fotográficas profesionales, <em>lifestyle</em>, looks completos y escenarios que reflejan el estilo de vida con el que el público desea identificarse.
-          .row.justify-content-center.align-items-center.p-3.p-lg-4
-            .col-lg-4.mb-3.mb-lg-0.order-2
-              figure
-                img(src='@/assets/curso/tema2/14.png', alt='Imagen de acompañamiento')
-            .col-lg-8.mb-4.mb-md-0.order-1
-              h4 Contenido interactivo
-              p.mb-0 Diseñado para fomentar la participación de la audiencia. Incluye encuestas, preguntas, <em>quizzes</em>, votaciones, retos y dinámicas en historias o publicaciones. Ayuda a aumentar el <em>engagement</em> y conocer mejor las preferencias del público.
-          .row.justify-content-center.align-items-center.p-3.p-lg-4
-            .col-lg-4.mb-3.mb-lg-0.order-2
-              figure
-                img(src='@/assets/curso/tema2/15.png', alt='Imagen de acompañamiento')
-            .col-lg-8.mb-4.mb-md-0.order-1
-              h4 Contenido en vivo (<em>live</em>)
-              p.mb-0 Transmisiones en tiempo real para fortalecer la conexión con la comunidad. Incluye lanzamientos de colecciones, desfiles, entrevistas con diseñadores, demostraciones de productos y sesiones de preguntas y respuestas con la audiencia.
-    
-    .bg-color-9.p-4.mb-5.tarjeta
-      p.mb-0 En el sistema moda, la combinación equilibrada de estos tipos evita que la marca se perciba exclusivamente comercial, el consumidor actual valora autenticidad y valor agregado antes de decidir una compra.
-    
-    .row.justify-content-center.align-items-center.z-2
-      .col-lg-10(data-aos="fade-up") 
-        .bg-color-1.px-5.py-4.tarjeta
-          .row.align-items-center
-            .col-lg-auto.mb-lg-0
-              img.d-none.d-lg-flex(src="@/assets/curso/tema2/16.png").mx-auto
-            .col-lg
-              p.mb-0 <b>Clave estratégica</b>.  Si todo el contenido es promoción, la audiencia se cansa, si todo es inspiración, no vende, el equilibrio es disciplina estratégica.
+    .bg-full-width.bg-fondo-1
+      .px-4.px-lg-5
+        .row.mb-5.justify-content-center.align-items-center
+          .col-lg-4.mb-3.mb-lg-0
+            figure
+              img(src="@/assets/curso/tema2/9.png", data-aos="zoom-in")
+          .col-lg-8
+            p.mb-0(data-aos="fade-right") Los tipos de contenido digital en el sistema moda pueden clasificarse según su formato, intención comunicativa y nivel de interacción, cada tipo cumple una función estratégica distinta dentro del embudo de marketing. Entre los principales tipos se encuentran:
+        
+        .bg-full-width.bg-fondo-slider.tarjeta.mb-5
+          .p-4.p-lg-5
+            SlyderA(tipo="b").bg-color-white.p-4.tarjeta
+              .row.justify-content-center.align-items-center.p-3.p-lg-4
+                .col-lg-4.mb-3.mb-lg-0.order-2
+                  figure
+                    img(src='@/assets/curso/tema2/10.png', alt='Imagen de acompañamiento')
+                .col-lg-8.mb-4.mb-md-0.order-1
+                  h4 Contenido informativo
+                  p.mb-0 Publicaciones educativas y explicativas que aportan valor al público. Incluye guías sobre cómo combinar prendas, consejos de estilo, cuidado de la ropa, tendencias de temporada y recomendaciones para elegir prendas según la ocasión o tipo de cuerpo. Su objetivo es posicionar la marca como referente en moda y generar confianza.
+              .row.justify-content-center.align-items-center.p-3.p-lg-4
+                .col-lg-4.mb-3.mb-lg-0.order-2
+                  figure
+                    img(src='@/assets/curso/tema2/11.png', alt='Imagen de acompañamiento')
+                .col-lg-8.mb-4.mb-md-0.order-1
+                  h4 Contenido promocional
+                  p.mb-0 Piezas enfocadas en impulsar la venta directa. Incluye ofertas especiales, descuentos, lanzamientos de nuevas colecciones, promociones por tiempo limitado, beneficios exclusivos y llamados claros a la acción para incentivar la compra inmediata.
+              .row.justify-content-center.align-items-center.p-3.p-lg-4
+                .col-lg-4.mb-3.mb-lg-0.order-2
+                  figure
+                    img(src='@/assets/curso/tema2/12.png', alt='Imagen de acompañamiento')
+                .col-lg-8.mb-4.mb-md-0.order-1
+                  h4 Contenido experiencial
+                  p.mb-0 Muestra la experiencia real de los clientes con la marca. Incluye testimonios, reseñas, fotos o videos de clientes, <em>unboxings</em> y demostraciones de uso. Su propósito es generar credibilidad, prueba social y confianza en los productos.
+              .row.justify-content-center.align-items-center.p-3.p-lg-4
+                .col-lg-4.mb-3.mb-lg-0.order-2
+                  figure
+                    img(src='@/assets/curso/tema2/13.png', alt='Imagen de acompañamiento')
+                .col-lg-8.mb-4.mb-md-0.order-1
+                  h4 Contenido aspiracional
+                  p.mb-0 Presenta la marca en un contexto inspirador y emocional. Incluye editoriales de moda, sesiones fotográficas profesionales, <em>lifestyle</em>, looks completos y escenarios que reflejan el estilo de vida con el que el público desea identificarse.
+              .row.justify-content-center.align-items-center.p-3.p-lg-4
+                .col-lg-4.mb-3.mb-lg-0.order-2
+                  figure
+                    img(src='@/assets/curso/tema2/14.png', alt='Imagen de acompañamiento')
+                .col-lg-8.mb-4.mb-md-0.order-1
+                  h4 Contenido interactivo
+                  p.mb-0 Diseñado para fomentar la participación de la audiencia. Incluye encuestas, preguntas, <em>quizzes</em>, votaciones, retos y dinámicas en historias o publicaciones. Ayuda a aumentar el <em>engagement</em> y conocer mejor las preferencias del público.
+              .row.justify-content-center.align-items-center.p-3.p-lg-4
+                .col-lg-4.mb-3.mb-lg-0.order-2
+                  figure
+                    img(src='@/assets/curso/tema2/15.png', alt='Imagen de acompañamiento')
+                .col-lg-8.mb-4.mb-md-0.order-1
+                  h4 Contenido en vivo (<em>live</em>)
+                  p.mb-0 Transmisiones en tiempo real para fortalecer la conexión con la comunidad. Incluye lanzamientos de colecciones, desfiles, entrevistas con diseñadores, demostraciones de productos y sesiones de preguntas y respuestas con la audiencia.
+        
+        .bg-color-9.p-4.mb-5.tarjeta
+          p.mb-0 En el sistema moda, la combinación equilibrada de estos tipos evita que la marca se perciba exclusivamente comercial, el consumidor actual valora autenticidad y valor agregado antes de decidir una compra.
+        
+        .row.justify-content-center.align-items-center.z-2
+          .col-lg-10(data-aos="fade-up") 
+            .bg-color-1.px-5.py-4.tarjeta
+              .row.align-items-center
+                .col-lg-auto.mb-lg-0
+                  img.d-none.d-lg-flex(src="@/assets/curso/tema2/16.png").mx-auto
+                .col-lg
+                  p.mb-0 <b>Clave estratégica</b>.  Si todo el contenido es promoción, la audiencia se cansa, si todo es inspiración, no vende, el equilibrio es disciplina estratégica.
     
     separador
     

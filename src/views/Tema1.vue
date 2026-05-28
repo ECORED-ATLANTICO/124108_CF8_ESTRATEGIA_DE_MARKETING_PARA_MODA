@@ -307,8 +307,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Tipos de medios virtuales
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/22.png", alt="TEXTOALT")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/22-1.png", alt="TEXTOALT")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/22.png", alt="la figura muestra los tipos de medios virtuales.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/22-1.png", alt="la figura muestra los tipos de medios virtuales.")
         figcaption Fuente: SENA, 2026
     
     .row.mb-5.justify-content-center.align-items-center
@@ -412,7 +412,7 @@
                   h3.mb-1 Marca de moda urbana sostenible
                   p.mb-0 Lo invitamos a descargar el siguiente documento y profundiza en cada rol estratégico de un ecosistema digital.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Plan_estrategico_de_mercadeo_D1.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Equipoclaveexitodigital.pdf')" target="_blank")
                     span Ir al enlace
                     i.fas.fa-link
     
