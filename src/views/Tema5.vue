@@ -14,7 +14,7 @@
             figure
               img(src="@/assets/curso/tema5/1.png", data-aos="zoom-in")
           .col-lg-8
-            p(data-aos="fade-right") En el sistema moda, comprender a quién se dirige la comunicación digital es un factor determinante para la efectividad de cualquier estrategia de marketing. Las audiencias representan el conjunto de personas que interactúan, consumen o pueden llegar a interesarse por la propuesta de valor de una marca, su análisis permite reducir la dispersión de esfuerzos y aumentar la precisión comercial, por ello, el estudio de audiencias se convierte en un proceso estratégico que conecta datos, comportamiento y decisiones empresariales. 
+            p(data-aos="fade-right") En el sistema moda, comprender a quién se dirige la comunicación digital es un factor determinante para la efectividad de cualquier estrategia de <em>marketing</em>. Las audiencias representan el conjunto de personas que interactúan, consumen o pueden llegar a interesarse por la propuesta de valor de una marca, su análisis permite reducir la dispersión de esfuerzos y aumentar la precisión comercial, por ello, el estudio de audiencias se convierte en un proceso estratégico que conecta datos, comportamiento y decisiones empresariales. 
             p.mb-0 Las marcas de moda que investigan y segmentan correctamente sus audiencias logran mensajes más relevantes, mayor eficiencia en la pauta digital y mejores tasas de conversión. 
         
         .bg-color-9.p-4.mb-5.tarjeta.mb-5
@@ -30,7 +30,7 @@
             figure
               img(src="@/assets/curso/tema5/2.png", data-aos="zoom-in")
           .col-lg-8
-            p La audiencia puede definirse como el conjunto de individuos que reciben, consumen o interactúan con los mensajes de una marca en entornos físicos o digitales, en el sistema moda, la audiencia no es un grupo homogéneo, sino un universo diverso con motivaciones simbólicas, aspiracionales y funcionales, comprender esta diversidad permite diseñar estrategias comunicativas más precisas. Cuando la audiencia se define correctamente, la marca optimiza su inversión y mejora su capacidad de conexión, por ello, la definición de audiencia constituye el punto de partida del marketing digital.
+            p La audiencia puede definirse como el conjunto de individuos que reciben, consumen o interactúan con los mensajes de una marca en entornos físicos o digitales, en el sistema moda, la audiencia no es un grupo homogéneo, sino un universo diverso con motivaciones simbólicas, aspiracionales y funcionales, comprender esta diversidad permite diseñar estrategias comunicativas más precisas. Cuando la audiencia se define correctamente, la marca optimiza su inversión y mejora su capacidad de conexión, por ello, la definición de audiencia constituye el punto de partida del <em>marketing</em> digital.
             .cajon.color-acento-contenido.bg-color-2.px-5.py-4
               p.mb-0 En el sistema moda, la definición de audiencia debe considerar variables como estilo de vida, sensibilidad estética y comportamiento de compra digital, no basta con conocer la edad o el género; es necesario comprender motivaciones profundas. Las marcas que dominan este análisis logran posicionamientos más sólidos, en cambio, las que trabajan con audiencias difusas enfrentan baja conversión y mensajes poco efectivos.
     
@@ -46,7 +46,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema5/3.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La clasificación de audiencias permite organizar el mercado en grupos con características similares para facilitar la toma de decisiones estratégicas. En el sistema moda, esta clasificación es especialmente relevante debido a la diversidad de estilos, motivaciones y comportamientos de compra. Sin una clasificación adecuada, la comunicación se vuelve genérica y pierde efectividad, por ello, segmentar la audiencia constituye una práctica fundamental del marketing digital.
+            p.mb-0 La clasificación de audiencias permite organizar el mercado en grupos con características similares para facilitar la toma de decisiones estratégicas. En el sistema moda, esta clasificación es especialmente relevante debido a la diversidad de estilos, motivaciones y comportamientos de compra. Sin una clasificación adecuada, la comunicación se vuelve genérica y pierde efectividad, por ello, segmentar la audiencia constituye una práctica fundamental del <em>marketing</em> digital.
         
         p.mb-5 Las audiencias pueden clasificarse principalmente en demográficas, psicográficas y conductuales. 
 
@@ -163,7 +163,7 @@
                   img(src="@/assets/curso/tema5/13.png", data-aos="zoom-in")
               .col-lg-7
                 .bg-color-2.p-4
-                  p.mb-0 En el sistema moda, analizar estas características permite comprender patrones de consumo, preferencias estéticas y comportamientos digitales, sin este análisis, la segmentación se vuelve superficial y la estrategia pierde precisión, por ello, el estudio poblacional constituye un insumo fundamental para la planificación de marketing.
+                  p.mb-0 En el sistema moda, analizar estas características permite comprender patrones de consumo, preferencias estéticas y comportamientos digitales, sin este análisis, la segmentación se vuelve superficial y la estrategia pierde precisión, por ello, el estudio poblacional constituye un insumo fundamental para la planificación de <em>marketing</em>.
             .row.align-items-center.bg-color-3.p-4
               .col-lg-auto.mb-lg-0
                 img.d-lg-flex.d-none(src="@/assets/curso/tema5/23.svg").mx-auto
@@ -240,7 +240,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema5/19.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La medición de audiencias corresponde al proceso de recopilar, analizar e interpretar datos sobre el comportamiento y tamaño del público en entornos digitales. En el sistema moda, esta medición permite evaluar la efectividad de las estrategias y ajustar decisiones en tiempo real, sin métricas confiables, la gestión digital se basa en suposiciones, por ello, la medición constituye un pilar del marketing basado en datos.
+            p.mb-0 La medición de audiencias corresponde al proceso de recopilar, analizar e interpretar datos sobre el comportamiento y tamaño del público en entornos digitales. En el sistema moda, esta medición permite evaluar la efectividad de las estrategias y ajustar decisiones en tiempo real, sin métricas confiables, la gestión digital se basa en suposiciones, por ello, la medición constituye un pilar del <em>marketing</em> basado en datos.
         
         .row.justify-content-center
           .col-lg-10
@@ -299,7 +299,7 @@
                     td <em>Engagement</em>
                   tr.bg-color-white
                     td ROI (Retorno de inversión)
-                    td Relación entre ingresos generados y la inversión en marketing. Determina la rentabilidad real de campañas de moda
+                    td Relación entre ingresos generados y la inversión en <em>marketing</em>. Determina la rentabilidad real de campañas de moda
                     td “La campaña de <em>influencers</em> generó $5.000 en ventas con $1.000 invertidos.”
                     td Conversión
                   tr.bg-color-8

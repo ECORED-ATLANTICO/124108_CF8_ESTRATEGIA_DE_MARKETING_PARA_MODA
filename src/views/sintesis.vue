@@ -7,7 +7,7 @@
         figure
           img(src="@/assets/curso/1.png", data-aos="zoom-in")
       .col-lg-8
-        p El componente formativo “Comunicación en marcas”, ofrece al aprendiz los fundamentos conceptuales y estratégicos para comprender la publicidad digital, la creación de contenidos y la planificación del marketing en el sistema moda. A través del estudio de técnicas, tipologías y estructuras de planificación, se fortalece la capacidad para diseñar acciones digitales alineadas con objetivos comerciales y comportamientos de audiencia. El componente promueve una visión sistémica del ecosistema digital aplicado al sector moda.
+        p El componente formativo “Comunicación en marcas”, ofrece al aprendiz los fundamentos conceptuales y estratégicos para comprender la publicidad digital, la creación de contenidos y la planificación del <em>marketing</em> en el sistema moda. A través del estudio de técnicas, tipologías y estructuras de planificación, se fortalece la capacidad para diseñar acciones digitales alineadas con objetivos comerciales y comportamientos de audiencia. El componente promueve una visión sistémica del ecosistema digital aplicado al sector moda.
         .bg-color-20.p-4.tarjeta
             p.mb-0 Asimismo, el componente profundiza en la gestión de comunidades virtuales y el análisis de audiencias como base para la personalización estratégica. El aprendiz desarrolla competencias para segmentar, interpretar públicos y estructurar calendarios de contenido coherentes. De esta manera, se consolida una base técnica que permite optimizar la comunicación digital, mejorar la interacción con el consumidor y fortalecer el posicionamiento competitivo de marcas del sistema moda. 
     .row.justify-content-center

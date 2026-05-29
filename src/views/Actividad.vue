@@ -85,7 +85,7 @@ export default {
         {
           id: 5,
           texto:
-            'En el plan marketing digital, los objetivos guían la estrategia.',
+            'En el plan <em>marketing</em> digital, los objetivos guían la estrategia.',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
@@ -100,7 +100,7 @@ export default {
         {
           id: 6,
           texto:
-            'Para el plan de marketing digital, las metas no deben ser medibles.',
+            'Para el plan de <em>marketing</em> digital, las metas no deben ser medibles.',
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
@@ -200,7 +200,7 @@ export default {
         {
           id: 13,
           texto:
-            'En un plan de marketing digital, el público objetivo es opcional.',
+            'En un plan de <em>marketing</em> digital, el público objetivo es opcional.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -273,7 +273,7 @@ export default {
         {
           id: 18,
           texto:
-            'En un plan de marketing digital, el SEO y el SEM son complementarios.',
+            'En un plan de <em>marketing</em> digital, el SEO y el SEM son complementarios.',
           imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [

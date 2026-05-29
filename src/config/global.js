@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Comunicación en marcas',
     Description:
-      'El componente desarrolla fundamentos estratégicos de publicidad digital, contenidos, planificación de marketing, comunidades virtuales y audiencias en el sistema moda, permitiendo al aprendiz diseñar acciones digitales coherentes, segmentadas y orientadas a resultados en entornos competitivos.',
+      'El componente desarrolla fundamentos estratégicos de publicidad digital, contenidos, planificación de <em>marketing</em>, comunidades virtuales y audiencias en el sistema moda, permitiendo al aprendiz diseñar acciones digitales coherentes, segmentadas y orientadas a resultados en entornos competitivos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -67,7 +67,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Plan de marketing',
+        titulo: 'Plan de <em>marketing</em>',
         desarrolloContenidos: true,
         subMenu: [
           { numero: '3.1', titulo: 'Concepto', hash: 't_3_1' },

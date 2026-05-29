@@ -57,7 +57,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text Las técnicas de publicidad digital comprenden métodos específicos para ejecutar campañas efectivas en entornos virtuales, entre las más utilizadas en el sistema moda se encuentran el display advertising, la publicidad en redes sociales (Social Ads), el remarketing y el marketing de influencers. 
+        p.banner-text Las técnicas de publicidad digital comprenden métodos específicos para ejecutar campañas efectivas en entornos virtuales, entre las más utilizadas en el sistema moda se encuentran el display advertising, la publicidad en redes sociales (Social Ads), el <em>remarketing</em> y el marketing de influencers. 
     
     .row.justify-content-center
       .col-lg-12
@@ -113,7 +113,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/8.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La publicidad digital puede clasificarse según su formato, objetivo y canal de distribución, entre las principales tipologías se encuentran: publicidad de búsqueda (<em>search ads</em>), publicidad en redes sociales (<em>social ads</em>), publicidad nativa, video marketing y publicidad programática. Cada tipología posee características específicas que determinan su alcance, segmentación y nivel de interacción, es ta clasificación permite a las marcas seleccionar el formato más adecuado según su estrategia comercial.
+        p.mb-0 La publicidad digital puede clasificarse según su formato, objetivo y canal de distribución, entre las principales tipologías se encuentran: publicidad de búsqueda (<em>search ads</em>), publicidad en redes sociales (<em>social ads</em>), publicidad nativa, video <em>marketing</em> y publicidad programática. Cada tipología posee características específicas que determinan su alcance, segmentación y nivel de interacción, es ta clasificación permite a las marcas seleccionar el formato más adecuado según su estrategia comercial.
     
     .bg-full-width.bg-fondo-slider.tarjeta.mb-5
       .p-4.p-lg-5
@@ -151,7 +151,7 @@
               figure
                 img(src='@/assets/curso/tema1/15.png', alt='Imagen de acompañamiento')
             .col-lg-8.mb-4.mb-md-0.order-1
-              h4 Video marketing
+              h4 Video <em>marketing</em>
               p.mb-0 En el sector moda ha ganado protagonismo, especialmente en formatos cortos como <em>reels o TikTok</em>, donde la demostración visual del producto influye significativamente en la decisión de compra.
     
     .row.justify-content-center.align-items-center
@@ -215,7 +215,7 @@
               .col-lg-auto.mb-lg-0
                 img.d-lg-flex.d-none(src="@/assets/curso/tema1/4.svg").mx-auto
               .col-lg
-                p.mb-0 Entre las estrategias más utilizadas en moda se encuentran la estrategia de atracción (inbound), la estrategia de conversión directa, la estrategia de remarketing y la estrategia de posicionamiento de marca. 
+                p.mb-0 Entre las estrategias más utilizadas en moda se encuentran la estrategia de atracción (inbound), la estrategia de conversión directa, la estrategia de <em>remarketing</em> y la estrategia de posicionamiento de marca. 
 
         .row.justify-content-center
           .col-lg-12
@@ -745,8 +745,8 @@
                 .col
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
-                      h3.mb-1 Diccionario con términos de marketing digital
-                      p.mb-0 Lo invitamos a visitar el siguiente enlace en donde podrá apreciar una página de la empresa marketingmiempresa.com, que contine un amplio diccionario de términos aplicados en el mundo del marketing digital
+                      h3.mb-1 Diccionario con términos de <em>marketing</em> digital
+                      p.mb-0 Lo invitamos a visitar el siguiente enlace en donde podrá apreciar una página de la empresa <em>marketing</em>miempresa.com, que contine un amplio diccionario de términos aplicados en el mundo del <em>marketing</em> digital
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.marketingmiempresa.com/diccionario-terminos-marketing-digital/" target="_blank")
                         span Ir al enlace

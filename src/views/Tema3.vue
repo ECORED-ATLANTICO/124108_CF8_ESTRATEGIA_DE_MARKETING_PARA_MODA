@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Plan de marketing digital
+      h1 Plan de <em>marketing</em> digital
     
     .bg-full-width.bg-fondo-1
       .px-4.px-lg-5
@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema3/1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 En el sistema moda, la creatividad sin planificación se convierte en improvisación. El plan de marketing digital es el instrumento estratégico que organiza objetivos, recursos, acciones y métricas para garantizar que la presencia digital de una marca genere resultados sostenibles.
+            p.mb-0 En el sistema moda, la creatividad sin planificación se convierte en improvisación. El plan de <em>marketing</em> digital es el instrumento estratégico que organiza objetivos, recursos, acciones y métricas para garantizar que la presencia digital de una marca genere resultados sostenibles.
     
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-3.mb-3.mb-lg-0.order-lg-2
@@ -32,7 +32,7 @@
               .col-lg-auto.mb-lg-0
                 img.d-lg-flex.d-none(src="@/assets/curso/tema3/4.svg").mx-auto
               .col-lg
-                p.mb-0 Este capítulo desarrolla el concepto, características y fases del plan de marketing digital aplicado específicamente al sistema moda, reconociendo su papel estratégico en el posicionamiento y crecimiento comercial.
+                p.mb-0 Este capítulo desarrolla el concepto, características y fases del plan de <em>marketing</em> digital aplicado específicamente al sistema moda, reconociendo su papel estratégico en el posicionamiento y crecimiento comercial.
 
         separador
         
@@ -44,7 +44,7 @@
             figure
               img(src="@/assets/curso/tema3/5.png", data-aos="zoom-in")
           .col-lg-8
-            p.mb-0(data-aos="fade-right") El plan de marketing digital es un documento estratégico que define los objetivos que una organización busca alcanzar en los canales digitales y las acciones necesarias para lograrlos. Incluye estrategias, herramientas, cronograma, presupuesto y métricas para atraer clientes, fortalecer la marca y aumentar las ventas de manera medible y organizada.
+            p.mb-0(data-aos="fade-right") El plan de <em>marketing</em> digital es un documento estratégico que define los objetivos que una organización busca alcanzar en los canales digitales y las acciones necesarias para lograrlos. Incluye estrategias, herramientas, cronograma, presupuesto y métricas para atraer clientes, fortalecer la marca y aumentar las ventas de manera medible y organizada.
     
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-up")
@@ -55,8 +55,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Plan de marketing: qué es y cómo hacer uno paso a paso
-                  p.mb-0 Lo invitamos a ver el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video titulado “Plan de marketing: qué es y cómo hacer uno paso a paso”, publicado por InboundCycle - Marketing y ventas inbound, explica de manera clara y estructurada cómo elaborar un plan de marketing desde cero.
+                  h3.mb-1 Plan de <em>marketing</em>: qué es y cómo hacer uno paso a paso
+                  p.mb-0 Lo invitamos a ver el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video titulado “Plan de <em>marketing</em>: qué es y cómo hacer uno paso a paso”, publicado por InboundCycle - <em>marketing</em> y ventas inbound, explica de manera clara y estructurada cómo elaborar un plan de <em>marketing</em> desde cero.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=YpcxMRGtR0I " target="_blank")
                     span Ir al video
@@ -71,7 +71,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text Un plan de marketing digital en el sistema moda debe cumplir características específicas que garanticen su aplicabilidad y coherencia estratégica.
+        p.banner-text Un plan de <em>marketing</em> digital en el sistema moda debe cumplir características específicas que garanticen su aplicabilidad y coherencia estratégica.
     
     .row.mb-5.align-items-center.justify-content-center
       .col-md-8.col-lg-4.mb-3.mb-lg-0
@@ -114,7 +114,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema3/11.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 El plan de marketing digital se desarrolla en fases estructuradas que permiten pasar del análisis inicial a la ejecución y optimización continua de las estrategias. Cada etapa cumple una función específica y facilita la toma de decisiones orientadas al logro de los objetivos comerciales y de posicionamiento de la marca.
+            p.mb-0 El plan de <em>marketing</em> digital se desarrolla en fases estructuradas que permiten pasar del análisis inicial a la ejecución y optimización continua de las estrategias. Cada etapa cumple una función específica y facilita la toma de decisiones orientadas al logro de los objetivos comerciales y de posicionamiento de la marca.
     
     .bg-full-width.bg-fondo-3.mb-5
       .px-4.px-md-5
@@ -163,7 +163,7 @@
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10(data-aos="fade-up")
-            p.banner-text Los objetivos en marketing digital son la base estratégica que guía todas las acciones de una marca. En el sistema moda, permiten convertir las metas comerciales en acciones claras y medibles. Cuando una empresa define objetivos concretos, sus campañas tienen dirección, coherencia y un mejor aprovechamiento de los recursos.
+            p.banner-text Los objetivos en <em>marketing</em> digital son la base estratégica que guía todas las acciones de una marca. En el sistema moda, permiten convertir las metas comerciales en acciones claras y medibles. Cuando una empresa define objetivos concretos, sus campañas tienen dirección, coherencia y un mejor aprovechamiento de los recursos.
         
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-4.mb-3
@@ -200,7 +200,7 @@
               p.mb-0 Pretenden fortalecer la relación con los clientes actuales, incentivando la recompra y la interacción constante con la marca. Sus resultados se analizan mediante engagement, recurrencia y nivel de satisfacción. 
     
     .bg-color-9.p-4.mb-5.tarjeta.mb-5
-      p.mb-0 Para que un objetivo sea realmente útil dentro de un plan de marketing digital, debe estar bien estructurado y facilitar el seguimiento de los resultados. Por ello, se recomienda aplicar el criterio SMART, el cual permite formular objetivos claros y alcanzables. Un objetivo debe ser:
+      p.mb-0 Para que un objetivo sea realmente útil dentro de un plan de <em>marketing</em> digital, debe estar bien estructurado y facilitar el seguimiento de los resultados. Por ello, se recomienda aplicar el criterio SMART, el cual permite formular objetivos claros y alcanzables. Un objetivo debe ser:
     
     .row.mb-5.justify-content-center
       .col-sm-6.col-lg-2.mb-4.mb-lg-0(data-aos="fade-up")
@@ -345,7 +345,7 @@
             figure
               img(src="@/assets/curso/tema3/30.png", data-aos="zoom-in")
           .col-lg-8
-            p.mb-0(data-aos="fade-right") El público en el plan de marketing digital representa el grupo específico de personas al que se dirige la estrategia, en el sistema moda, comprender al público es fundamental debido a la alta carga simbólica del consumo, ya que la elección de una prenda no responde únicamente a necesidad funcional, sino a identidad, pertenencia y estilo de vida. Por ello, definir correctamente el público reduce desperdicio publicitario y aumenta la efectividad del mensaje, sin segmentación clara, la comunicación se diluye.
+            p.mb-0(data-aos="fade-right") El público en el plan de <em>marketing</em> digital representa el grupo específico de personas al que se dirige la estrategia, en el sistema moda, comprender al público es fundamental debido a la alta carga simbólica del consumo, ya que la elección de una prenda no responde únicamente a necesidad funcional, sino a identidad, pertenencia y estilo de vida. Por ello, definir correctamente el público reduce desperdicio publicitario y aumenta la efectividad del mensaje, sin segmentación clara, la comunicación se diluye.
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0.order-lg-2
@@ -614,7 +614,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Qué es el SEO: guía definitiva para principiantes.
-                  p.mb-0 Lo invitamos a ver el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video publicado en el canal HubSpot Español, nos introduce al concepto de SEO, indicando los tipos y el impacto dentro de marketing digital.
+                  p.mb-0 Lo invitamos a ver el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video publicado en el canal HubSpot Español, nos introduce al concepto de SEO, indicando los tipos y el impacto dentro de <em>marketing</em> digital.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=BicIvYl7kkY " target="_blank")
                     span Ir al video

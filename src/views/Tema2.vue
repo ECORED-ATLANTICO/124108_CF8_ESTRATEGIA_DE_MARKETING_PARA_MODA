@@ -95,7 +95,7 @@
             figure
               img(src="@/assets/curso/tema2/9.png", data-aos="zoom-in")
           .col-lg-8
-            p.mb-0(data-aos="fade-right") Los tipos de contenido digital en el sistema moda pueden clasificarse según su formato, intención comunicativa y nivel de interacción, cada tipo cumple una función estratégica distinta dentro del embudo de marketing. Entre los principales tipos se encuentran:
+            p.mb-0(data-aos="fade-right") Los tipos de contenido digital en el sistema moda pueden clasificarse según su formato, intención comunicativa y nivel de interacción, cada tipo cumple una función estratégica distinta dentro del embudo de <em>marketing</em>. Entre los principales tipos se encuentran:
         
         .bg-full-width.bg-fondo-slider.tarjeta.mb-5
           .p-4.p-lg-5
@@ -618,7 +618,7 @@
                 img(src='@/assets/curso/tema2/43.png', alt='Texto que describa la imagen')
           .bg-color-10.p-2.mb-3
             h3.mb-0.text-center HubSpot
-          p.text-center Software avanzado de gestión de contenido y automatización de marketing.
+          p.text-center <em>Software</em> avanzado de gestión de contenido y automatización de <em>marketing</em>.
           p.text-center Sitio de la herramienta:
           .row.justify-content-center
             .col-auto 

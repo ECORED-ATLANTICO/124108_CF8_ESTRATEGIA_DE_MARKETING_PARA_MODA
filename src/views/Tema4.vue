@@ -34,7 +34,7 @@
             figure
               img(src="@/assets/curso/tema4/3.png", data-aos="zoom-in")
           .col-lg-8
-            p.mb-0(data-aos="fade-right") Una comunidad virtual es un grupo de personas que interactúan en entornos digitales alrededor de intereses, valores o propósitos compartidos, en el contexto del marketing digital, las comunidades se construyen en plataformas como redes sociales, foros o grupos especializados. En el sistema moda, la comunidad surge cuando los consumidores no solo compran, sino que se identifican con el estilo, narrativa y filosofía de la marca, esta identificación genera interacción constante y sentido de pertenencia, por tanto, la comunidad trasciende la transacción comercial.
+            p.mb-0(data-aos="fade-right") Una comunidad virtual es un grupo de personas que interactúan en entornos digitales alrededor de intereses, valores o propósitos compartidos, en el contexto del <em>marketing</em> digital, las comunidades se construyen en plataformas como redes sociales, foros o grupos especializados. En el sistema moda, la comunidad surge cuando los consumidores no solo compran, sino que se identifican con el estilo, narrativa y filosofía de la marca, esta identificación genera interacción constante y sentido de pertenencia, por tanto, la comunidad trasciende la transacción comercial.
         
     .bg-color-9.p-4.mb-5.tarjeta.mb-5
       p.mb-0 En el sistema moda, la construcción de comunidad requiere consistencia narrativa, autenticidad y liderazgo digital, una marca que promueve sostenibilidad debe interactuar coherentemente con valores ambientales, la falta de coherencia debilita la confianza y fragmenta la comunidad, por ello, el concepto de comunidad virtual implica gestión estratégica permanente, no solo acumulación de seguidores, el resultado esperado es fidelización, recomendación y posicionamiento sólido.
@@ -153,7 +153,7 @@
           .col-lg-8
             p Las estrategias para el desarrollo de comunidades virtuales en el sistema moda constituyen el conjunto de acciones planificadas que buscan atraer, vincular y fidelizar a los miembros alrededor de la marca, no se trata únicamente de publicar contenido, sino de diseñar experiencias digitales que estimulen la participación, cuando la estrategia es clara, la comunidad evoluciona de espectadores a embajadores. 
             .cajon.color-acento-contenido.bg-color-2.px-5.py-4
-              p.mb-0 En cambio, la ausencia de planificación genera grupos inactivos y dispersos, por ello, la estrategia comunitaria debe integrarse al plan de marketing digital.
+              p.mb-0 En cambio, la ausencia de planificación genera grupos inactivos y dispersos, por ello, la estrategia comunitaria debe integrarse al plan de <em>marketing</em> digital.
         
         .row.justify-content-center
           .col-lg-12
