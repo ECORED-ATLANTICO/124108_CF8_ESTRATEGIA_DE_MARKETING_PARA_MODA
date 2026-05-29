@@ -1,0 +1,26 @@
+<svg id="Grupo_1233372" data-name="Grupo 1233372" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.899" height="31.499" viewBox="0 0 39.899 31.499">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.096" y1="0.904" x2="0.779" y2="0.221" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cdeefd"/>
+      <stop offset="0.5" stop-color="#e5f6fd"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="_2" data-name="2" transform="translate(0 0)">
+    <g id="Capa_1" transform="translate(0 0)">
+      <path id="Trazado_904567" data-name="Trazado 904567" d="M9.4,12.709V28.967a3.713,3.713,0,0,0,3.709,3.709h1.543a2.87,2.87,0,0,1,2.877,2.877V39a1.469,1.469,0,0,0,2.5,1.057l5.061-4.888a8.879,8.879,0,0,1,6.188-2.5H45.556a3.713,3.713,0,0,0,3.709-3.709V12.709A3.713,3.713,0,0,0,45.556,9H13.109A3.713,3.713,0,0,0,9.4,12.709Z" transform="translate(-9.383 -8.985)" fill="#678aee"/>
+      <path id="Trazado_904568" data-name="Trazado 904568" d="M45.573,9H13.109A3.713,3.713,0,0,0,9.4,12.709v.555a3.713,3.713,0,0,1,3.709-3.709H45.573a3.713,3.713,0,0,1,3.709,3.709v-.555A3.713,3.713,0,0,0,45.573,9Z" transform="translate(-9.383 -8.985)" fill="#6981f1"/>
+      <path id="Trazado_904569" data-name="Trazado 904569" d="M9.75,29V12.76a3.819,3.819,0,0,1,3.709-3.831A3.766,3.766,0,0,0,9.3,12.638V28.9a3.721,3.721,0,0,0,3.033,3.657A3.715,3.715,0,0,1,9.75,29.018Z" transform="translate(-9.299 -8.914)" fill="#3249b3"/>
+      <path id="Trazado_904570" data-name="Trazado 904570" d="M9.4,12.709V28.967a3.713,3.713,0,0,0,3.709,3.709h1.543a2.87,2.87,0,0,1,2.877,2.877V39a1.469,1.469,0,0,0,2.5,1.057l5.061-4.888a8.879,8.879,0,0,1,6.188-2.5H45.556a3.713,3.713,0,0,0,3.709-3.709V12.709A3.713,3.713,0,0,0,45.556,9H13.109A3.713,3.713,0,0,0,9.4,12.709Z" transform="translate(-9.383 -8.985)" fill="none"/>
+      <g id="Grupo_1115781" data-name="Grupo 1115781" transform="translate(6.653 7.895)">
+        <ellipse id="Elipse_12422" data-name="Elipse 12422" cx="3.172" cy="3.172" rx="3.172" ry="3.172" transform="translate(0 1.791) rotate(-16.4)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Grupo_1115782" data-name="Grupo 1115782" transform="translate(17.194 8.43)">
+        <ellipse id="Elipse_12424" data-name="Elipse 12424" cx="3.172" cy="3.172" rx="3.172" ry="3.172" transform="translate(0 0.476) rotate(-4.3)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Grupo_1115783" data-name="Grupo 1115783" transform="translate(26.486 7.673)">
+        <ellipse id="Elipse_12426" data-name="Elipse 12426" cx="3.172" cy="3.172" rx="3.172" ry="3.172" transform="translate(0 5.831) rotate(-66.8)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
