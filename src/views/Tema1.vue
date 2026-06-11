@@ -46,7 +46,7 @@
         .col-lg-auto.mb-lg-0
           img.d-none.d-lg-flex(src="@/assets/curso/tema1/5.png").mx-auto
         .col-lg
-          p.mb-0 <b>Ejemplo aplicado</b>. La marca -ficticia- Aurora Denim, especializada en jeans ecológicos, implementó una campaña digital segmentada en Meta Ads dirigida a jóvenes entre 18 y 30 años interesados en sostenibilidad. Tras analizar métricas durante 30 días, identificó que los anuncios en formato video generaban 40 % más conversiones que las imágenes estáticas, optimizando así su estrategia creativa y aumentando las ventas online en un 25 %.
+          p.mb-0 <b>Ejemplo aplicado</b>. La marca -ficticia- Aurora Denim, especializada en jeans ecológicos, implementó una campaña digital segmentada en Meta Ads dirigida a jóvenes entre 18 y 30 años interesados en sostenibilidad. Tras analizar métricas durante 30 días, identificó que los anuncios en formato video generaban 40 % más conversiones que las imágenes estáticas, optimizando así su estrategia creativa y aumentando las ventas <em>online</em> en un 25 %.
     
     separador
     
@@ -57,7 +57,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text Las técnicas de publicidad digital comprenden métodos específicos para ejecutar campañas efectivas en entornos virtuales, entre las más utilizadas en el sistema moda se encuentran el display advertising, la publicidad en redes sociales (Social Ads), el <em>remarketing</em> y el marketing de influencers. 
+        p.banner-text Las técnicas de publicidad digital comprenden métodos específicos para ejecutar campañas efectivas en entornos virtuales, entre las más utilizadas en el sistema moda se encuentran el <em>display advertising</em>, la publicidad en redes sociales (<em>Social Ads</em>), el <em>remarketing</em> y el <em>marketing</em>de influencers. 
     
     .row.justify-content-center
       .col-lg-12
@@ -83,7 +83,7 @@
                 td <em>Social Ads</em>
                 td Conversión
                 td Segmentación detallada por intereses y comportamiento, optimización mediante algoritmos, formatos interactivos, medición en tiempo real del rendimiento publicitario.
-                td Una tienda de moda femenina ejecuta campañas en Instagram Ads dirigidas a mujeres de 18-30 años interesadas en tendencias sostenibles para impulsar ventas <em>online</em>
+                td Una tienda de moda femenina ejecuta campañas en Instagram Ads dirigidas a mujeres de 18-30 años interesadas en tendencias sostenibles para impulsar ventas <em>online.</em>
               tr.bg-color-white
                 td <em>Remarketing</em>
                 td Recuperación
@@ -113,7 +113,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/8.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La publicidad digital puede clasificarse según su formato, objetivo y canal de distribución, entre las principales tipologías se encuentran: publicidad de búsqueda (<em>search ads</em>), publicidad en redes sociales (<em>social ads</em>), publicidad nativa, video <em>marketing</em> y publicidad programática. Cada tipología posee características específicas que determinan su alcance, segmentación y nivel de interacción, es ta clasificación permite a las marcas seleccionar el formato más adecuado según su estrategia comercial.
+        p.mb-0 La publicidad digital puede clasificarse según su formato, objetivo y canal de distribución, entre las principales tipologías se encuentran: publicidad de búsqueda (<em>search ads</em>), publicidad en redes sociales (<em>social ads</em>), publicidad nativa, video <em>marketing</em> y publicidad programática. Cada tipología posee características específicas que determinan su alcance, segmentación y nivel de interacción, esta clasificación permite a las marcas seleccionar el formato más adecuado según su estrategia comercial.
     
     .bg-full-width.bg-fondo-slider.tarjeta.mb-5
       .p-4.p-lg-5
@@ -215,7 +215,7 @@
               .col-lg-auto.mb-lg-0
                 img.d-lg-flex.d-none(src="@/assets/curso/tema1/4.svg").mx-auto
               .col-lg
-                p.mb-0 Entre las estrategias más utilizadas en moda se encuentran la estrategia de atracción (inbound), la estrategia de conversión directa, la estrategia de <em>remarketing</em> y la estrategia de posicionamiento de marca. 
+                p.mb-0 Entre las estrategias más utilizadas en moda se encuentran la estrategia de atracción (<em>inbound</em>), la estrategia de conversión directa, la estrategia de <em>remarketing</em> y la estrategia de posicionamiento de marca. 
 
         .row.justify-content-center
           .col-lg-12
@@ -241,7 +241,7 @@
                     td Conversión directa
                     td Venta inmediata
                     td Uso de ofertas limitadas, llamados a la acción claros (CTA), <em>landing pages</em> optimizadas, enfoque en respuesta rápida del usuario, integración con pauta digital.
-                    td Una tienda de ropa deportiva lanza una campaña “48 horas de descuento” en Instagram con botón de compra directa hacia su tienda online.
+                    td Una tienda de ropa deportiva lanza una campaña “48 horas de descuento” en Instagram con botón de compra directa hacia su tienda <em>online</em>.
                   tr.bg-color-white
                     td <em>Remarketing</em>
                     td Recuperar clientes
@@ -316,14 +316,14 @@
         figure
           img(src="@/assets/curso/tema1/23.png", data-aos="zoom-in")
       .col-lg-8
-        p.mb-0(data-aos="fade-right") La correcta elección del medio depende del objetivo estratégico definido previamente, por otro lado, la integración multicanal mejora la experiencia del consumidor, una campaña puede iniciar con un anuncio en redes sociales, redirigir a una página web optimizada y finalizar en un marketplace, esta articulación fortalece la omnicanalidad, aspecto clave en la competitividad actual del sistema moda.
+        p.mb-0(data-aos="fade-right") La correcta elección del medio depende del objetivo estratégico definido previamente, por otro lado, la integración multicanal mejora la experiencia del consumidor, una campaña puede iniciar con un anuncio en redes sociales, redirigir a una página web optimizada y finalizar en un <em>marketplace</em>, esta articulación fortalece la omnicanalidad, aspecto clave en la competitividad actual del sistema moda.
     
     .bg-color-1.tarjeta.px-4.mb-5
       .row.align-items-center
         .col-lg-auto.mb-lg-0.order-lg-2
           img.d-none.d-lg-flex(src="@/assets/curso/tema1/35.png").mx-auto
         .col-lg.order-lg-1
-          p.mb-0 <b>Ejemplo aplicado</b>. La empresa Farfetch empezó como un <em>retailer</em> de moda de lujo y evolucionó hacia un marketplace que conecta boutiques y marcas con consumidores, además de ofrecer servicios a terceros como logística y tecnología.
+          p.mb-0 <b>Ejemplo aplicado</b>. La empresa Farfetch empezó como un <em>retailer</em> de moda de lujo y evolucionó hacia un <em>marketplace</em> que conecta boutiques y marcas con consumidores, además de ofrecer servicios a terceros como logística y tecnología.
 
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-up")
@@ -398,7 +398,7 @@
           .col-lg-auto.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema1/4.svg").mx-auto
           .col-lg
-            p.mb-0 Desde una perspectiva metodológica, el calendario debe incluir objetivos, tipo de contenido, formato, canal, fecha de publicación y responsable. El calendario facilita la medición y el análisis posterior, al comparar fechas y resultados, la empresa puede identificar qué tipo de contenido genera mayor interacción o conversión. Esta organización evita improvisación y fortalece la consistencia comunicativa.
+            p.mb-0 Desde una perspectiva metodológica, el calendario debe incluir objetivos, tipo de contenido, formato, canal, fecha de publicación y responsable. El calendario facilita la medición y el análisis <em>Post</em>erior, al comparar fechas y resultados, la empresa puede identificar qué tipo de contenido genera mayor interacción o conversión. Esta organización evita improvisación y fortalece la consistencia comunicativa.
 
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-up")
@@ -444,15 +444,15 @@
               tr.bg-color-white
                 td 1
                 td <em>Awareness</em> de marca
-                td Inspiracional (look)
-                td Reel
+                td Inspiracional (<em>look</em>)
+                td <em>Reel</em>
                 td Instagram
                 td 1 del mes
                 td CM + Diseño
               tr.bg-color-8
                 td 2
                 td Educación del cliente
-                td Educativo (tips cuidado)
+                td Educativo (<em>tips</em> cuidado)
                 td Carrusel
                 td Instagram
                 td 2 del mes
@@ -461,7 +461,7 @@
                 td 3
                 td Tráfico web
                 td Promocional suave
-                td Story con link
+                td <em>Story</em> con <em>link</em>
                 td Instagram
                 td 3 del mes
                 td CM
@@ -469,7 +469,7 @@
                 td 4
                 td Posicionamiento
                 td <em>Storytelling</em> marca
-                td Post feed
+                td <em>Post feed</em>
                 td Instagram / Facebook
                 td 4 del mes
                 td Contenido
@@ -477,7 +477,7 @@
                 td 5
                 td <em>Engagement</em>
                 td Interactivo (encuesta)
-                td Stories
+                td <em>Stories</em>
                 td Instagram
                 td 5 del mes
                 td CM
@@ -485,7 +485,7 @@
                 td 6
                 td Consideración
                 td Producto destacado
-                td Reel
+                td <em>Reel</em>
                 td Instagram
                 td 6 del mes
                 td Diseño
@@ -493,7 +493,7 @@
                 td 7
                 td Comunidad
                 td UGC (cliente real)
-                td Post feed
+                td <em>Post feed</em>
                 td Instagram
                 td 7 del mes
                 td CM
@@ -501,7 +501,7 @@
                 td 8
                 td Conversión
                 td Oferta limitada
-                td Story + botón
+                td <em>Story</em> + botón
                 td Instagram
                 td 8 del mes
                 td <em>Performance</em>
@@ -517,15 +517,15 @@
                 td 10
                 td <em>Engagement</em>
                 td <em>Behind the scenes</em>
-                td Stories
+                td <em>Stories</em>
                 td Instagram
                 td 10 del mes
                 td CM
               tr.bg-color-white
                 td 11
                 td Tráfico
-                td Blog teaser
-                td Post feed
+                td <em>Blog teaser</em>
+                td <em>Post feed</em>
                 td Instagram
                 td 11 del mes
                 td Contenido
@@ -548,7 +548,7 @@
               tr.bg-color-8
                 td 14
                 td Comunidad
-                td Live con influencer
+                td <em>Live</em> con influencer
                 td En vivo
                 td Instagram
                 td 14 del mes
@@ -557,7 +557,7 @@
                 td 15
                 td Conversión
                 td CTA directo colección
-                td Reel
+                td <em>Reel</em>
                 td Instagram
                 td 15 del mes
                 td <em>Performance</em>
@@ -663,7 +663,7 @@
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10(data-aos="fade-up")
-            p.banner-text La terminología digital comprende el conjunto de conceptos técnicos que permiten interpretar correctamente las métricas y herramientas de publicidad online, el desconocimiento de estos términos puede generar decisiones erróneas en inversión y análisis. Veamos algunos de ellos:
+            p.banner-text La terminología digital comprende el conjunto de conceptos técnicos que permiten interpretar correctamente las métricas y herramientas de publicidad <em>online</em>, el desconocimiento de estos términos puede generar decisiones erróneas en inversión y análisis. Veamos algunos de ellos:
         
         .row.justify-content-center
           .col-lg-10

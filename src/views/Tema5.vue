@@ -67,8 +67,8 @@
                 h5.ms-5 Ejemplo.
                 p.ms-5.mb-0 Una marca de moda sostenible detecta consumidoras con valores eco-conscientes y estilo de vida activo, por lo que construye una narrativa de “moda con propósito” y utiliza mensajes sobre impacto ambiental en sus campañas.
               div(titulo="Conductual")
-                p.ms-5 Patrones observables de interacción con la marca y el entorno digital: frecuencia de compra, ticket promedio, momentos de consumo, respuesta a promociones, uso de dispositivos, <em>engagement</em> en redes y recorrido del cliente (<em>customer journey</em>).
-                p.ms-5 <b>Optimizar campañas:</b> permite personalizar mensajes, automatizar <em>remarketing</em>, mejorar la segmentación en pauta, ajustar timing de promociones y aumentar la conversión mediante decisiones basadas en datos reales de comportamiento.
+                p.ms-5 Patrones observables de interacción con la marca y el entorno digital: frecuencia de compra, <em>ticket</em> promedio, momentos de consumo, respuesta a promociones, uso de dispositivos, <em>engagement</em> en redes y recorrido del cliente (<em>customer journey</em>).
+                p.ms-5 <b>Optimizar campañas:</b> permite personalizar mensajes, automatizar <em>remarketing</em>, mejorar la segmentación en pauta, ajustar <em>timing</em> de promociones y aumentar la conversión mediante decisiones basadas en datos reales de comportamiento.
                 h5.ms-5 Ejemplo.
                 p.ms-5.mb-0 Un <em>e-commerce</em> de <em>streetwear</em> detecta que muchos usuarios abandonan el carrito en la noche y activas campañas de <em>remarketing</em> con descuento válido por 24 horas, recuperando ventas perdidas.
         
@@ -130,7 +130,7 @@
         figure
           img(src="@/assets/curso/tema5/10.png", data-aos="zoom-in")
       .col-lg-8
-        p(data-aos="fade-right") En el sistema moda, identificar correctamente la tipología predominante mejora la coherencia entre oferta y demanda, una marca sostenible que comunique como marca de lujo aspiracional puede generar disonancia, por ello, la tipología debe guiar decisiones de branding, pricing y contenido digital. El conocimiento profundo del perfil del consumidor fortalece el posicionamiento competitivo.
+        p(data-aos="fade-right") En el sistema moda, identificar correctamente la tipología predominante mejora la coherencia entre oferta y demanda, una marca sostenible que comunique como marca de lujo aspiracional puede generar disonancia, por ello, la tipología debe guiar decisiones de branding, <em>pricing</em> y contenido digital. El conocimiento profundo del perfil del consumidor fortalece el posicionamiento competitivo.
         .row.align-items-center.bg-color-1.px-4.tarjeta
           .col-lg-auto.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema5/11.png").mx-auto
@@ -171,7 +171,7 @@
                 p.mb-0 Entre las características más relevantes se encuentran la estructura demográfica, la capacidad adquisitiva, la ubicación geográfica y los patrones socioculturales. La estructura demográfica identifica composición por edad y género; la capacidad adquisitiva estima poder de compra; la ubicación geográfica permite adaptar oferta logística; los patrones socioculturales revelan valores y estilos de vida. 
     
         .bg-color-9.p-4.mb-5.tarjeta.mb-5
-          p.mb-0 Cada característica aporta una dimensión analítica distinta que enriquece la comprensión del mercado, en el sistema moda, estas variables influyen directamente en decisiones de diseño, pricing y distribución. Por ejemplo, una población joven urbana puede demandar moda rápida y digitalizada, mientras que un segmento adulto premium puede priorizar calidad y exclusividad. La lectura integrada de las características poblacionales permite anticipar tendencias y reducir incertidumbre comercial.
+          p.mb-0 Cada característica aporta una dimensión analítica distinta que enriquece la comprensión del mercado, en el sistema moda, estas variables influyen directamente en decisiones de diseño, <em>pricing</em> y distribución. Por ejemplo, una población joven urbana puede demandar moda rápida y digitalizada, mientras que un segmento adulto premium puede priorizar calidad y exclusividad. La lectura integrada de las características poblacionales permite anticipar tendencias y reducir incertidumbre comercial.
         
         separador
         
@@ -197,7 +197,7 @@
               img(src="@/assets/curso/tema5/16.png", alt="alt")
           .crd_hover_txt--body
             h4.mb-3 Segmentación por nichos
-            p.mb-0 Una marca se enfoca exclusivamente en ropa deportiva para mujeres plus <em>size</em> que practican crossfit, creando prendas técnicas adaptadas a ese nicho.
+            p.mb-0 Una marca se enfoca exclusivamente en ropa deportiva para mujeres <em>plus size</em> que practican crossfit, creando prendas técnicas adaptadas a ese nicho.
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
@@ -205,7 +205,7 @@
               img(src="@/assets/curso/tema5/17.png", alt="alt")
           .crd_hover_txt--body
             h4.mb-3 Microsegmentación digital
-            p.mb-0  Un <em>e-commerce</em> de <em>sneakers</em> muestra anuncios distintos a usuarios que visitaron “tenis running” vs. quienes vieron “tenis urbanos”, ajustando creatividades y ofertas para cada micro grupo.
+            p.mb-0  Un <em>e-commerce</em> de <em>sneakers</em> muestra anuncios distintos a usuarios que visitaron “tenis <em>running</em>” vs. quienes vieron “tenis urbanos”, ajustando creatividades y ofertas para cada micro grupo.
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
@@ -259,67 +259,67 @@
                 tbody
                   tr.bg-color-white
                     td Alcance (<em>Reach</em>)
-                    td Número de usuarios únicos que vieron el contenido de la marca. Permite estimar la visibilidad real de colecciones, campañas o lanzamientos en audiencias nuevas
+                    td Número de usuarios únicos que vieron el contenido de la marca. Permite estimar la visibilidad real de colecciones, campañas o lanzamientos en audiencias nuevas.
                     td “El lanzamiento de la nueva colección cápsula alcanzó a 1.200 usuarios únicos en Instagram.”
                     td Alcance
                   tr.bg-color-8
                     td <em>Clicks</em> por enlace
-                    td Cantidad de clics en enlaces que dirigen a <em>e-commerce</em>, <em>lookbook</em> o <em>landing</em> de colección. Indica interés activo hacia la oferta de la marca
+                    td Cantidad de clics en enlaces que dirigen a <em>e-commerce</em>, <em>lookbook</em> o <em>landing</em> de colección. Indica interés activo hacia la oferta de la marca.
                     td “El link del nuevo <em>drop</em> recibió 150 <em>clicks</em> desde <em>stories</em>.”
                     td Conversión
                   tr.bg-color-white
                     td Compartidos (<em>Shares</em>)
-                    td Número de veces que el contenido de la marca es redistribuido por los usuarios. Refleja potencial de viralidad y afinidad con la propuesta estética
+                    td Número de veces que el contenido de la marca es redistribuido por los usuarios. Refleja potencial de viralidad y afinidad con la propuesta estética.
                     td “El <em>reel</em> del <em>outfit</em> urbano fue compartido 300 veces por la comunidad.”
                     td <em>Engagement</em>
                   tr.bg-color-8
                     td CPC (Costo por clics)
-                    td Costo promedio pagado por cada clic en campañas de pauta digital. Permite evaluar la eficiencia de la inversión publicitaria en moda
+                    td Costo promedio pagado por cada clic en campañas de pauta digital. Permite evaluar la eficiencia de la inversión publicitaria en moda.
                     td “La campaña del Black Fashion Week logró un CPC de $0.20.”
                     td Conversión
                   tr.bg-color-white
                     td Crecimiento de seguidores
-                    td Variación neta de seguidores en un periodo. Indica expansión de la comunidad digital y atractivo de la marca
+                    td Variación neta de seguidores en un periodo. Indica expansión de la comunidad digital y atractivo de la marca.
                     td “Durante el lanzamiento de temporada la marca ganó +800 seguidores (600 orgánicos).”
                     td Alcance
                   tr.bg-color-8
                     td Frecuencia de publicación
-                    td Promedio de contenidos publicados en un periodo. Permite evaluar la consistencia editorial de la marca en redes de moda
+                    td Promedio de contenidos publicados en un periodo. Permite evaluar la consistencia editorial de la marca en redes de moda.
                     td “La marca mantuvo 12 publicaciones semanales entre <em>feed</em> y <em>stories</em>.”
                     td Alcance
                   tr.bg-color-white
                     td Impresiones
-                    td Número total de veces que el contenido aparece en pantalla, incluyendo repeticiones. Mide presión publicitaria y exposición de la marca
+                    td Número total de veces que el contenido aparece en pantalla, incluyendo repeticiones. Mide presión publicitaria y exposición de la marca.
                     td “El anuncio de la colección primavera generó 5.000 impresiones.”
                     td Alcance
                   tr.bg-color-8
                     td Menciones orgánicas
-                    td Cantidad de veces que usuarios hablan de la marca sin pauta. Refleja conversación espontánea y posicionamiento cultural
+                    td Cantidad de veces que usuarios hablan de la marca sin pauta. Refleja conversación espontánea y posicionamiento cultural.
                     td “La marca recibió 120 menciones orgánicas durante la pasarela digital.”
                     td <em>Engagement</em>
                   tr.bg-color-white
                     td ROI (Retorno de inversión)
-                    td Relación entre ingresos generados y la inversión en <em>marketing</em>. Determina la rentabilidad real de campañas de moda
+                    td Relación entre ingresos generados y la inversión en <em>marketing</em>. Determina la rentabilidad real de campañas de moda.
                     td “La campaña de <em>influencers</em> generó $5.000 en ventas con $1.000 invertidos.”
                     td Conversión
                   tr.bg-color-8
                     td Tasa de conversión
-                    td Porcentaje de usuarios que realizan la acción objetivo (compra, registro, descarga de <em>lookbook</em>). Mide la eficacia comercial del embudo
+                    td Porcentaje de usuarios que realizan la acción objetivo (compra, registro, descarga de <em>lookbook</em>). Mide la eficacia comercial del embudo.
                     td “La tienda <em>online</em> logró 5 % de conversión en el lanzamiento de <em>sneakers</em>.”
                     td Conversión
                   tr.bg-color-white
                     td Tasa de <em>engagement</em>
-                    td Nivel de interacción (<em>likes</em>, comentarios, compartidos) respecto al alcance. Indica qué tan relevante y atractivo es el contenido de moda
+                    td Nivel de interacción (<em>likes</em>, comentarios, compartidos) respecto al alcance. Indica qué tan relevante y atractivo es el contenido de moda.
                     td “El carrusel de la nueva colección obtuvo 8 % de <em>engagement</em>.”
                     td <em>Engagement</em>
                   tr.bg-color-8
                     td Tasa de retención (Video)
-                    td Porcentaje de espectadores que continúan viendo un video de la marca después de los primeros segundos. Evalúa poder de retención narrativa
+                    td Porcentaje de espectadores que continúan viendo un video de la marca después de los primeros segundos. Evalúa poder de retención narrativa.
                     td “El <em>fashion reel</em> mantuvo 70 % de retención hasta el minuto 5.”
                     td <em>Engagement</em>
                   tr.bg-color-white
                     td Tiempo de visualización
-                    td Duración promedio que los usuarios consumen un video o contenido audiovisual de la marca. Señala profundidad de consumo
+                    td Duración promedio que los usuarios consumen un video o contenido audiovisual de la marca. Señala profundidad de consumo.
                     td “El video de <em>backstage</em> se visualizó en promedio 1 minuto de 3.”
                     td <em>Engagement</em>
 
@@ -359,12 +359,12 @@
               img(src="@/assets/curso/tema5/24.png", data-aos="zoom-in")
           .col-lg-7
             h2(data-aos="fade-left").mb-4 ¿Sabías qué?
-            p Lo invitamos a escuchar el siguiente Pódcast:
+            p Lo invitamos a consultar el siguiente Pódcast:
             
             TarjetaAudio.color-secundario.bg-color-white.mb-3(
-              texto="Pendiente por definir el titulo del podcast"
+              texto="Gestión estratégica de audiencias"
               tiempo
-              :audio="require('../assets/curso/podcast/podcast1.mp3')"
+              :audio="require('../assets/curso/podcast/podcast2.mp3')"
             )
 
 </template>

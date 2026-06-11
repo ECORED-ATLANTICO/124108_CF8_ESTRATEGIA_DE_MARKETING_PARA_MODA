@@ -127,7 +127,7 @@
                     img(src='@/assets/curso/tema2/13.png', alt='Imagen de acompañamiento')
                 .col-lg-8.mb-4.mb-md-0.order-1
                   h4 Contenido aspiracional
-                  p.mb-0 Presenta la marca en un contexto inspirador y emocional. Incluye editoriales de moda, sesiones fotográficas profesionales, <em>lifestyle</em>, looks completos y escenarios que reflejan el estilo de vida con el que el público desea identificarse.
+                  p.mb-0 Presenta la marca en un contexto inspirador y emocional. Incluye editoriales de moda, sesiones fotográficas profesionales, <em>lifestyle</em>, <em>looks</em> completos y escenarios que reflejan el estilo de vida con el que el público desea identificarse.
               .row.justify-content-center.align-items-center.p-3.p-lg-4
                 .col-lg-4.mb-3.mb-lg-0.order-2
                   figure
@@ -214,7 +214,7 @@
             figure
               img(src="@/assets/curso/tema2/22.png", data-aos="zoom-in")
           .col-lg-9
-            p(data-aos="fade-right") Las etiquetas, comúnmente conocidas como hashtags, son palabras o frases precedidas por el símbolo numeral (#) que permiten clasificar y agrupar contenidos dentro de plataformas digitales.
+            p(data-aos="fade-right") Las etiquetas, comúnmente conocidas como <em>hashtags</em>, son palabras o frases precedidas por el símbolo numeral (#) que permiten clasificar y agrupar contenidos dentro de plataformas digitales.
             .bg-color-2.p-4.tarjeta
               p.mb-0 Las etiquetas cumplen funciones estratégicas:
 
@@ -260,7 +260,7 @@
             .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/19.png").mx-auto
             .col-lg
-              p.mb-0 <b>Ejemplo aplicado</b>. La empresa Bruma Atelier redujo el uso de hashtags genéricos (#fashion, #style) y comenzó a utilizar etiquetas más específicas (#ModaConscienteColombia, #DiseñoArtesanalBogotá). Como resultado, mejoró la calidad de sus seguidores y aumentó las consultas comerciales.
+              p.mb-0 <b>Ejemplo aplicado</b>. La empresa Bruma Atelier redujo el uso de <em>hashtags</em> genéricos (#<em>fashion</em>, #<em>style</em>) y comenzó a utilizar etiquetas más específicas (#ModaConscienteColombia, #DiseñoArtesanalBogotá). Como resultado, mejoró la calidad de sus seguidores y aumentó las consultas comerciales.
     
     .row
       .col-lg-3.mb-3.mb-lg-0
@@ -270,7 +270,7 @@
           .tarjeta.tarjeta--azul.h-100
             .p-3
               p.mb-0 <b>Genérica</b>: Alto alcance.
-              p.mb-0 <b>Ejemplo</b>: #Fashion.
+              p.mb-0 <b>Ejemplo</b>: #<em>Fashion</em>.
       .col-lg-3.mb-3.mb-lg-0
         .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-down")
           .tarjeta-avatar-b__img
@@ -342,13 +342,13 @@
                 p.mb-0 Clasifica la pieza según la función estratégica que cumple dentro del plan de comunicación. Puede ser inspiracional (motiva y conecta emocionalmente), educativo (enseña o informa), promocional (impulsa ventas o destaca ofertas), interactivo (fomenta participación), de entretenimiento (genera diversión y recordación) o enfocado en valores de marca (comunica propósito, cultura y diferenciadores). 
               .tarjeta.color-acento-botones--borde.p-4(titulo="Formato")
                 h4 Formato
-                p.mb-0 Define la forma en que se presentará el contenido en el canal digital. Puede tratarse de un post estático, carrusel, reel, video corto, historia, artículo de blog, podcast, infografía, transmisión en vivo o newsletter. La elección del formato dependerá del objetivo, la plataforma y las preferencias del público objetivo.
+                p.mb-0 Define la forma en que se presentará el contenido en el canal digital. Puede tratarse de un <em>Post</em> estático, carrusel, <em>reel</em>, video corto, historia, artículo de blog, <em>podcast</em>, infografía, transmisión en vivo o <em>newsletter</em>. La elección del formato dependerá del objetivo, la plataforma y las preferencias del público objetivo.
               .tarjeta.color-acento-botones--borde.p-4(titulo="Tema o mensaje central")
                 h4 Tema o mensaje central
                 p.mb-0 Resume la idea principal que se desea transmitir en la pieza. Debe ser claro, relevante y coherente con la estrategia de la marca. Ejemplos: “Moda sostenible”, “Nueva colección otoño”, “Consejos de estilo ejecutivo”, “Beneficios de comprar local” o “Historias de clientes satisfechos”. 
               .tarjeta.color-acento-botones--borde.p-4(titulo="Objetivo de comunicación")
                 h4 Objetivo de comunicación
-                p.mb-0 Establece la meta específica que se busca alcanzar con el contenido. Puede orientarse a generar interacción, aumentar ventas, educar a la audiencia, reforzar la identidad de marca, atraer tráfico al sitio web, captar leads, fidelizar clientes o posicionar un producto o servicio. 
+                p.mb-0 Establece la meta específica que se busca alcanzar con el contenido. Puede orientarse a generar interacción, aumentar ventas, educar a la audiencia, reforzar la identidad de marca, atraer tráfico al sitio web, captar <em>leads</em>, fidelizar clientes o posicionar un producto o servicio. 
               .tarjeta.color-acento-botones--borde.p-4(titulo="Llamado a la acción (CTA)")
                 h4 Llamado a la acción (CTA)
                 p.mb-0 Es la instrucción concreta que guía al usuario hacia la acción deseada. Debe ser breve, directo y persuasivo. Ejemplos: “Compra ahora”, “Descubre la colección”, “Comenta tu favorito”, “Escríbenos por WhatsApp”, “Descarga la guía gratuita” o “Visita nuestro sitio web”
@@ -373,7 +373,7 @@
                 tbody
                   tr.bg-color-white
                     td Inspiracional
-                    td Post con foto
+                    td <em>Post</em> con foto
                     td Feminidad y poder
                     td Conectar emocionalmente
                     td “Descubre más en nuestra web”.
@@ -409,7 +409,7 @@
                     td “Suscríbete al canal”.
                   tr.bg-color-white
                     td Valores de marca
-                    td Post
+                    td <em>Post</em>
                     td Sostenibilidad
                     td Reforzar identidad
                     td “Conoce nuestro compromiso”.
@@ -432,10 +432,10 @@
             tbody
               tr.bg-color-white
                 td Inspiracional
-                td Post
+                td <em>Post</em>
                 td Estilo masculino
                 td Posicionar marca
-                td “Explora nuestros looks”.
+                td “Explora nuestros <em>looks</em>”.
               tr.bg-color-8
                 td Educativo
                 td <em>Reel</em>
@@ -468,7 +468,7 @@
                 td “Suscríbete al canal”.
               tr.bg-color-white
                 td Valores de marca
-                td Post
+                td <em>Post</em>
                 td Responsabilidad social
                 td Reforzar identidad
                 td “Conoce nuestros programas”.
@@ -482,7 +482,7 @@
             img(src="@/assets/curso/tema2/33.png")
           div.text-center.p-3.p-lg-4
             h5 Johanna Ortiz
-            p.mb-0 Comunica exclusividad, artesanía y lujo contemporáneo. Su parrilla de contenidos debe destacar el storytelling aspiracional, los procesos de diseño, la inspiración detrás de cada colección y su compromiso con la sostenibilidad y la moda de autor. 
+            p.mb-0 Comunica exclusividad, artesanía y lujo contemporáneo. Su parrilla de contenidos debe destacar el <em>storytelling</em> aspiracional, los procesos de diseño, la inspiración detrás de cada colección y su compromiso con la sostenibilidad y la moda de autor. 
       .col-lg-6.mb-3.mb-lg-0(data-aos="fade-up")
         .bg-color-24.h-100
           figure

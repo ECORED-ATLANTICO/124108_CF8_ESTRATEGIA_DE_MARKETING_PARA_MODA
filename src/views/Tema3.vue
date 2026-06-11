@@ -56,7 +56,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Plan de <em>marketing</em>: qué es y cómo hacer uno paso a paso
-                  p.mb-0 Lo invitamos a ver el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video titulado “Plan de <em>marketing</em>: qué es y cómo hacer uno paso a paso”, publicado por InboundCycle - <em>marketing</em> y ventas inbound, explica de manera clara y estructurada cómo elaborar un plan de <em>marketing</em> desde cero.
+                  p.mb-0 Lo invitamos a ver el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video titulado “Plan de <em>marketing</em>: qué es y cómo hacer uno paso a paso”, publicado por InboundCycle - <em>marketing</em> y ventas <em>inbound</em>, explica de manera clara y estructurada cómo elaborar un plan de <em>marketing</em> desde cero.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=YpcxMRGtR0I " target="_blank")
                     span Ir al video
@@ -80,7 +80,7 @@
       .col-lg-6
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-17")
           div(titulo="Claridad")
-            p.ms-5 Los objetivos deben formularse de manera concreta, específica y medible, de modo que permitan evaluar su cumplimiento. Ejemplo: aumentar las ventas online en un 20 % durante los próximos seis meses.
+            p.ms-5 Los objetivos deben formularse de manera concreta, específica y medible, de modo que permitan evaluar su cumplimiento. Ejemplo: aumentar las ventas <em>online</em> en un 20 % durante los próximos seis meses.
           div(titulo="Coherencia")
             p.ms-5 El plan debe estar alineado con la identidad, los valores y el posicionamiento de la marca, asegurando que todas las acciones transmitan un mensaje consistente.
           div(titulo="Adaptabilidad")
@@ -242,7 +242,7 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-11.mb-3
         .bg-color-25.p-3.mb-5.tarjeta.mb-5
-          p.mb-0.text-center <b>Ejemplo</b>: “Incrementar en 25 % las ventas online durante tres meses” es un objetivo más claro y efectivo que simplemente decir “vender más”.
+          p.mb-0.text-center <b>Ejemplo</b>: “Incrementar en 25 % las ventas <em>online</em> durante tres meses” es un objetivo más claro y efectivo que simplemente decir “vender más”.
 
     .bg-color-1.tarjeta.px-4.p-4
       .row.align-items-center
@@ -257,7 +257,7 @@
               |  Aumentar 40 % el alcance digital. 
             li.mb-3.d-flex
               i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-              |  Incrementar 20 % las ventas <em>online</em>.
+              p.mb-0  Incrementar 20 % las ventas <em>online</em>.
             li.mb-3.d-flex
               i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
               |  Lograr 15 % más recompra de clientes. 
@@ -524,58 +524,58 @@
                 tbody
                   tr.bg-color-white
                     td Reconocimiento
-                    td Aumentar visibilidad y recordación de marca, generar <em>awareness</em> en audiencias nuevas
+                    td Aumentar visibilidad y recordación de marca, generar <em>awareness</em> en audiencias nuevas.
                     td 
                       ul.lista-ul--color
                         li.mb-1.d-flex
                           i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-                          p.mb-0 Alcance. 
+                          p.mb-0 Alcance
                         li.mb-1.d-flex
                           i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-                          p.mb-0 Impresiones.
+                          p.mb-0 Impresiones
                         li.mb-1.d-flex
                           i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-                          p.mb-0 Incremento en seguidores.
+                          p.mb-0 Incremento en seguidores
                         li.mb-1.d-flex
                           i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-                          p.mb-0 Métricas de notoriedad de marca.
+                          p.mb-0 Métricas de notoriedad de marca
  
                     td Campaña en TikTok mostrando el <em>behind the scenes</em> de una pasarela, con <em>hashtags</em> de tendencia para posicionar la marca.
                   tr.bg-color-8
                     td Tráfico
-                    td Dirigir visitas al <em>e-commerce</em> o tienda física, estimular exploración de catálogo
+                    td Dirigir visitas al <em>e-commerce</em> o tienda física, estimular exploración de catálogo.
                     td
                       ul.lista-ul--color
                         li.mb-1.d-flex
                           i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-                          p.mb-0 <em>Clicks</em>.
+                          p.mb-0 <em>Clicks</em>
                         li.mb-1.d-flex
                           i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-                          p.mb-0 CTR.
+                          p.mb-0 CTR
                         li.mb-1.d-flex
                           i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-                          p.mb-0 Sesiones en sitio web.
+                          p.mb-0 Sesiones en sitio web
                         li.mb-1.d-flex
                           i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-                          p.mb-0 Tiempo de permanencia.
+                          p.mb-0 Tiempo de permanencia
                     td Anuncios en Facebook Ads que llevan directamente a la sección “Nueva colección otoño” en la tienda <em>online</em>.
                   tr.bg-color-white
                     td Conversión
-                    td Generar ventas, maximizar retorno de inversión publicitaria
+                    td Generar ventas, maximizar retorno de inversión publicitaria.
                     td
                       ul.lista-ul--color
                         li.mb-1.d-flex
                           i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-                          p.mb-0 ROAS.
+                          p.mb-0 ROAS
                         li.mb-1.d-flex
                           i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-                          p.mb-0 Ventas.
+                          p.mb-0 Ventas
                         li.mb-1.d-flex
                           i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-                          p.mb-0 Tasa de conversión.
+                          p.mb-0 Tasa de conversión
                         li.mb-1.d-flex
                           i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-                          p.mb-0 Valor promedio de pedido.
+                          p.mb-0 Valor promedio de pedido
                     td Campaña de <em>remarketing</em> en Google Ads mostrando productos vistos previamente, con un cupón de descuento exclusivo para cerrar la compra.
 
     .cajon.color-acento-contenido.bg-color-2.px-5.py-4.mb-5
@@ -614,7 +614,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Qué es el SEO: guía definitiva para principiantes.
-                  p.mb-0 Lo invitamos a ver el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video publicado en el canal HubSpot Español, nos introduce al concepto de SEO, indicando los tipos y el impacto dentro de <em>marketing</em> digital.
+                  p.mb-0 Lo invitamos a consultar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video publicado en el canal HubSpot Español, nos introduce al concepto de SEO, indicando los tipos y el impacto dentro de <em>marketing</em> digital.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=BicIvYl7kkY " target="_blank")
                     span Ir al video
@@ -625,7 +625,7 @@
         figure
           img(src="@/assets/curso/tema3/41.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
-        p.mb-0(data-aos="fade-right") En el sistema moda, una estrategia SEO adecuada implica investigar palabras clave como “moda sostenible en Colombia” o “ropa urbana masculina premium”, además, la creación de blogs sobre tendencias fortalece autoridad y mejora visibilidad. El SEO no genera resultados inmediatos, pero consolida presencia digital estable, en mercados competitivos, esta ventaja orgánica reduce dependencia de la pauta.
+        p.mb-0(data-aos="fade-right") En el sistema moda, una estrategia SEO adecuada implica investigar palabras clave como “moda sostenible en Colombia” o “ropa urbana masculina <em>premium</em>”, además, la creación de blogs sobre tendencias fortalece autoridad y mejora visibilidad. El SEO no genera resultados inmediatos, pero consolida presencia digital estable, en mercados competitivos, esta ventaja orgánica reduce dependencia de la pauta.
     
     .row.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0
@@ -692,7 +692,7 @@
               img(src="@/assets/curso/tema3/47.png", alt="alt")
           .crd_hover_txt--body
             h4.mb-3 <em>Display ads</em>
-            p.mb-0 Se muestran en sitios asociados, utilizando imágenes, videos o banners llamativos para captar la atención del público objetivo. 
+            p.mb-0 Se muestran en sitios asociados, utilizando imágenes, videos o <em>banners</em> llamativos para captar la atención del público objetivo. 
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
@@ -703,7 +703,7 @@
             p.mb-0 Presenta productos con imagen y precio, permitiendo comparar opciones, acceder a tiendas y facilitar decisiones rápidas de compra.
 
     .cajon.color-acento-contenido.bg-color-2.px-5.py-4.mb-5
-      p.mb-0 En el sistema moda, el SEM es especialmente útil durante lanzamientos de colección o temporadas comerciales, permite competir por palabras clave estratégicas y dirigir tráfico cualificado al e-commerce, no obstante, debe complementarse con SEO para equilibrar inversión y sostenibilidad, la combinación de ambas estrategias fortalece la presencia digital integral.
+      p.mb-0 En el sistema moda, el SEM es especialmente útil durante lanzamientos de colección o temporadas comerciales, permite competir por palabras clave estratégicas y dirigir tráfico cualificado al <em>e-commerce</em>, no obstante, debe complementarse con SEO para equilibrar inversión y sostenibilidad, la combinación de ambas estrategias fortalece la presencia digital integral.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -738,10 +738,10 @@
               img(src="@/assets/curso/tema3/52.png", data-aos="zoom-in")
           .col-lg-7
             h2(data-aos="fade-left").mb-4 ¿Sabías qué?
-            p Lo invitamos a escuchar el siguiente Pódcast:
+            p Lo invitamos a consultar el siguiente Pódcast:
             
             TarjetaAudio.color-secundario.bg-color-white.mb-3(
-              texto="Pendiente por definir el titulo del podcast"
+              texto="Plan estratégico digital moda"
               tiempo
               :audio="require('../assets/curso/podcast/podcast1.mp3')"
             )

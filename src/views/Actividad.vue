@@ -22,297 +22,724 @@ export default {
       introduccion:
         '<b> Objetivo:</b> verificar la comprensión de conceptos clave de publicidad, contenidos, comunidades y audiencias en el Sistema Moda.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
-          texto: 'La publicidad digital solo funciona en redes sociales.',
+          texto:
+            '¿Cuál de los siguientes conceptos define mejor la publicidad digital en el sistema moda?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto:
+                'Estrategia utilizada únicamente para ventas presenciales en almacenes físicos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Proceso manual de distribución de productos textiles sin uso tecnológico.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Conjunto de acciones promocionales desarrolladas mediante medios y plataformas digitales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'Actividad administrativa relacionada exclusivamente con inventarios empresariales.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Se compone de todas las acciones promocionales y de comunicación desplegadas en el ecosistema virtual.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 2,
-          texto: 'El SEM implica inversión pagada en buscadores.',
+          texto:
+            '¿Cuál es la principal función de un calendario de contenidos dentro del <em>marketing digital</em>?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Organizar y programar estratégicamente las publicaciones digitales de una marca.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto:
+                'Diseñar únicamente campañas de televisión para empresas de moda.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Controlar exclusivamente procesos contables relacionados con publicidad física.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Administrar inventarios textiles sin relación con redes sociales.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Su objetivo clave es la organización temporal, estratégica y estructurada de los contenidos de la marca.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 3,
-          texto: 'El calendario de contenidos organiza publicaciones.',
+          texto:
+            '¿Qué característica diferencia principalmente al <em>marketing</em> de contenidos en entornos digitales?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Utiliza exclusivamente publicidad impresa tradicional.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Genera contenido de valor para atraer y fidelizar audiencias.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Se enfoca únicamente en ventas telefónicas directas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Elimina la necesidad de interacción con consumidores digitales.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Se basa en aportar información útil, relevante y de alto valor para conectar de forma orgánica con el público objetivo.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 4,
           texto:
-            'En los contenidos digitales, las etiquetas no influyen en la visibilidad.',
+            '¿Cuál es uno de los principales beneficios del <em>SEO</em> en <em>marketing digital</em>?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto:
+                'Reducir la velocidad de carga de los sitios web empresariales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Mejorar la visibilidad orgánica de una marca en buscadores digitales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Eliminar completamente el uso de redes sociales empresariales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Sustituir las estrategias de segmentación de audiencias.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! El <em>SEO</em> optimiza la infraestructura y contenido web para escalar posiciones en los resultados de búsqueda sin pagar por clic.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 5,
           texto:
-            'En el plan <em>marketing</em> digital, los objetivos guían la estrategia.',
+            '¿Cuál es la finalidad principal de las etiquetas o <em>hashtags</em> en redes sociales?',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Incrementar la dificultad para encontrar contenidos digitales relacionados.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Facilitar la clasificación y descubrimiento de publicaciones digitales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Sustituir completamente el contenido visual de las publicaciones.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Eliminar la necesidad de interacción con las comunidades virtuales.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Funcionan como indexadores que agrupan los contenidos por temáticas comunes para expandir su alcance orgánico.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 6,
           texto:
-            'Para el plan de <em>marketing</em> digital, las metas no deben ser medibles.',
+            '¿Cuál es la principal función de una parrilla de contenidos digital?',
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto:
+                'Reemplazar completamente el calendario de contenidos empresarial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Organizar estratégicamente los tipos y frecuencia de publicaciones.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Diseñar exclusivamente campañas de pauta tradicional impresa.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Controlar únicamente inventarios físicos de productos textiles.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Permite aterrizar la estrategia definiendo con precisión los formatos, las temáticas y los canales de distribución.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 7,
-          texto: 'Las comunidades virtuales requieren de interacción.',
+          texto:
+            '¿Qué elemento es esencial dentro de un plan de <em>marketing digital</em>?',
           imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Definición clara de objetivos y metas estratégicas medibles.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto:
+                'Eliminación total del análisis de audiencias comerciales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Uso exclusivo de publicidad tradicional en medios físicos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Sustitución completa de las redes sociales empresariales.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Todo plan estratégico sólido requiere estructurar metas claras mediante metodologías verificables y cuantificables.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 8,
-          texto: 'En las comunidades virtuales los roles no son necesarios.',
+          texto:
+            '¿Cuál es la principal diferencia entre <em>SEO</em> y <em>SEM</em>?',
           imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto:
+                'El <em>SEM</em> elimina completamente el uso de buscadores digitales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Ambos conceptos corresponden exclusivamente a diseño gráfico empresarial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'El <em>SEO</em> utiliza posicionamiento orgánico y el <em>SEM</em> publicidad pagada.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'El <em>SEO</em> se utiliza únicamente para ventas físicas presenciales.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Mientras el primero se enfoca en la optimización orgánica y gratuita a largo plazo, el segundo gestiona pautas y enlaces patrocinados e inmediatos.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 9,
-          texto: 'Segmentar una audiencia mejora la precisión del mensaje.',
+          texto:
+            '¿Qué caracteriza principalmente a una comunidad virtual en entornos digitales?',
           imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Interacción constante entre usuarios alrededor de intereses comunes.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto:
+                'Ausencia de comunicación entre consumidores y marcas empresariales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Dependencia exclusiva de publicidad tradicional impresa.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Eliminación de las plataformas digitales como medio de interacción.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Se define por el intercambio activo, la co-creación y el diálogo bidireccional entre usuarios que comparten aficiones o afinidad por una marca.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 10,
-          texto: 'Todas las audiencias responden igual.',
+          texto:
+            '¿Cuál es una función importante del <em>community manager</em> en redes sociales?',
           imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto:
+                'Administrar únicamente procesos financieros de la organización.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Reemplazar completamente las estrategias de <em>marketing</em> empresarial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Eliminar la necesidad de publicaciones en plataformas digitales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Gestionar la interacción y comunicación con la comunidad digital.',
+              esCorrecta: true,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Su rol principal radica en humanizar la marca, moderar los canales de conversación y estrechar relaciones estables con la audiencia.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 11,
-          texto: 'Las tendencias influyen en la pauta publicitaria.',
+          texto:
+            '¿Qué propósito tiene la segmentación de audiencias en <em>marketing digital</em>?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Eliminar la necesidad de estudiar el comportamiento del consumidor.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Incrementar la dificultad para identificar consumidores potenciales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Sustituir completamente la analítica de datos empresariales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Dividir el mercado para dirigir estrategias más precisas y efectivas.',
+              esCorrecta: true,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Clasificar al público por nichos específicos incrementa drásticamente la tasa de conversión y la relevancia de los mensajes.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 12,
           texto:
-            'En los contenidos digitales, la parrilla define frecuencia temática',
+            '¿Cuál es una característica principal de las audiencias digitales actuales?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Carecen totalmente de acceso a contenidos en redes sociales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Utilizan exclusivamente medios físicos para relacionarse con las marcas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Interactúan constantemente mediante múltiples plataformas y dispositivos digitales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'Evitan cualquier interacción con plataformas de comercio electrónico.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! El consumidor contemporáneo es hiperconectado, multidispositivo y demanda flujos dinámicos de comunicación y omnicanalidad.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 13,
           texto:
-            'En un plan de <em>marketing</em> digital, el público objetivo es opcional.',
+            '¿Cuál es el objetivo principal de las estrategias <em>inbound marketing</em>?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto:
+                'Atraer consumidores mediante contenido útil y relevante para la audiencia.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto:
+                'Interrumpir constantemente al usuario con publicidad invasiva no segmentada.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Eliminar completamente la comunicación digital de las marcas empresariales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Sustituyir las redes sociales por procesos administrativos internos empresariales.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! A diferencia del esquema tradicional intrusivo, busca que sea el cliente potencial quien encuentre orgánicamente a la marca motivado por soluciones de valor.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 14,
           texto:
-            'Las reglas digitales en las comunidades virtuales son irrelevantes.',
+            '¿Qué característica poseen los contenidos educativos en redes sociales empresariales?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto:
+                'Se utilizan exclusivamente en medios físicos tradicionales empresariales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Se enfocan únicamente en descuentos y promociones comerciales agresivas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Eliminan completamente la participación de las audiencias digitales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Aportan información útil relacionada con intereses y necesidades del usuario.',
+              esCorrecta: true,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Entregan explicaciones, guías de uso o contextos contextuales que resuelven dudas operativas reales de la comunidad.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 15,
-          texto: 'La medición de las audiencias permite su optimización.',
+          texto:
+            '¿Por qué es importante medir las audiencias en entornos digitales empresariales?',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Porque elimina completamente la necesidad de planificar campañas publicitarias.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Porque permite optimizar estrategias y mejorar resultados comerciales digitales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Porque sustituye totalmente las decisiones estratégicas empresariales tradicionales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Porque impide analizar el comportamiento de los consumidores digitales actuales.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! El análisis sistemático de métricas permite pivotar y refinar las inversiones basándose en evidencias empíricas de comportamiento contable.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 16,
           texto:
-            'Los medios virtuales amplían cobertura en la publicidad digital.',
+            '¿Qué elemento fortalece principalmente el posicionamiento digital de una marca?',
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'La coherencia visual y comunicativa en todos los canales digitales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto:
+                'La ausencia de interacción con consumidores y comunidades virtuales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'El uso exclusivo de estrategias publicitarias tradicionales impresas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'La eliminación de contenidos visuales en redes sociales empresariales.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Mantener una identidad sólida, unificada y con una línea estética clara consolida el recuerdo y autoridad de la firma <em>online</em>.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 17,
-          texto: 'Todo contenido digital genera engagement.',
+          texto:
+            '¿Cuál es la función principal de un <em>call to action</em> (<em>CTA</em>) digital?',
           imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto:
+                'Motivar al usuario para realizar una acción específica en línea.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto:
+                'Reemplazar completamente las estrategias de segmentación de audiencias digitales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Eliminar la necesidad de contenidos promocionales en redes sociales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Sustituyir las campañas publicitarias en plataformas digitales empresariales.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Actúa como el puente o detonador imperativo visual que invita al usuario a suscribirse, comprar o descargar un recurso específico.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 18,
           texto:
-            'En un plan de <em>marketing</em> digital, el SEO y el SEM son complementarios.',
+            '¿Qué característica distingue a las comunidades virtuales exitosas en <em>marketing digital</em>?',
           imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'La ausencia de contenidos interactivos y dinámicas de participación digital.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'La participación constante de los miembros de la comunidad.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'El uso exclusivo de canales de comunicación físicos tradicionales empresariales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'La eliminación de estrategias de fidelización y construcción de relaciones.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Su éxito real se mide a través del compromiso, el sentido de pertenencia y los niveles activos de conversación de sus miembros.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 19,
           texto:
-            'En las comunidades virtuales, la estructura organiza la interacción.',
+            '¿Cuál es una ventaja importante del <em>marketing digital</em> aplicado al sistema moda?',
           imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Sustituye todos los procesos de análisis y medición de resultados empresariales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Elimina completamente la necesidad de interacción con consumidores finales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Reduce totalmente la importancia de la identidad visual de marca.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Permite segmentar audiencias y personalizar estrategias comerciales digitales.',
+              esCorrecta: true,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Facilita la hiper-segmentación demográfica, geográfica y psicográfica para adaptar colecciones y mensajes estéticos con máxima precisión.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 20,
-          texto: 'Conocer al público audiencia, mejora su conversión.',
+          texto:
+            '¿Qué propósito tienen las reglas de comportamiento dentro de comunidades virtuales empresariales?',
           imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Garantizar interacciones respetuosas y organizadas entre los participantes digitales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto:
+                'Limitar completamente la participación y expresión de los usuarios digitales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Sustituyir las estrategias de comunicación desarrolladas por las organizaciones.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Eliminar la necesidad de moderación dentro de las plataformas virtuales.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
-            'Excelente, tiene una adecuada comprensión de la temática de comunicación en marcas.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            '¡Muy bien! Son lineamientos esenciales de moderación orientados a proteger la salud del entorno, resguardando la reputación de la comunidad y de la firma.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
       ],
       mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',

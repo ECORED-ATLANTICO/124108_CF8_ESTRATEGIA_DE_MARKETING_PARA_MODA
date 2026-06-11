@@ -116,7 +116,7 @@
           div(titulo="Primera tipología")
             p.ms-5 Corresponde a las comunidades abiertas, accesibles a cualquier usuario interesado, se caracterizan por alta visibilidad y facilidad de crecimiento, aunque menor control sobre la interacción, son útiles para marcas que buscan posicionamiento amplio y reconocimiento masivo.
           div(titulo="Segunda tipología")
-            p.ms-5 La segunda tipología incluye las comunidades cerradas o privadas, donde el acceso requiere aprobación o pertenencia previa (clientes frecuentes, miembros premium), sus características principales son exclusividad, mayor cohesión y alto nivel de compromiso. En el sistema moda, este modelo es frecuente en marcas de lujo o sostenibles que desean fortalecer identidad selectiva, la exclusividad incrementa el sentido de pertenencia y eleva la percepción de valor.
+            p.ms-5 La segunda tipología incluye las comunidades cerradas o privadas, donde el acceso requiere aprobación o pertenencia previa (clientes frecuentes, miembros <em>premium</em>), sus características principales son exclusividad, mayor cohesión y alto nivel de compromiso. En el sistema moda, este modelo es frecuente en marcas de lujo o sostenibles que desean fortalecer identidad selectiva, la exclusividad incrementa el sentido de pertenencia y eleva la percepción de valor.
           div(titulo="Tercera tipología")
             p.ms-5 La tercera tipología corresponde a las comunidades híbridas, que combinan espacios abiertos y privados, este modelo permite captar nuevos seguidores en entornos abiertos y trasladar a los miembros más comprometidos a espacios exclusivos, su característica distintiva es la segmentación progresiva de usuarios según nivel de interacción. En el sistema moda, esta estrategia facilita crecimiento y fidelización simultáneamente, elegir el tipo adecuado depende del posicionamiento y objetivos estratégicos de la marca.
     
@@ -172,18 +172,18 @@
                 tbody
                   tr.bg-color-white
                     td Participación activa
-                    td Uso de formatos interactivos que invitan a la audiencia a opinar y actuar en tiempo real: encuestas en <em>stories</em>, cajas de preguntas, retos UGC, votaciones de producto y dinámicas gamificadas que reducen la pasividad del usuario
-                    td <em>Engagement</em>: incrementa la interacción, el tiempo de permanencia y la afinidad con la marca, mejorando señales algorítmicas en redes sociales
+                    td Uso de formatos interactivos que invitan a la audiencia a opinar y actuar en tiempo real: encuestas en <em>stories</em>, cajas de preguntas, retos UGC, votaciones de producto y dinámicas gamificadas que reducen la pasividad del usuario.
+                    td <em>Engagement</em>: incrementa la interacción, el tiempo de permanencia y la afinidad con la marca, mejorando señales algorítmicas en redes sociales.
                     td Una marca de <em>streetwear</em> publica en <em>stories</em> dos diseños de <em>hoodie</em> y lanza una encuesta: “¿Cuál sale primero?”. Los seguidores votan y luego se anuncia el ganador, generando expectativa y conversación.
                   tr.bg-color-8
                     td Exclusividad
-                    td Creación de experiencias diferenciadas para segmentos específicos: acceso anticipado, colecciones limitadas, membresías VIP, contenido privado o beneficios por pertenencia a comunidad. Refuerza la percepción de valor y pertenencia
-                    td Fidelización: aumenta la recompra, la lealtad y el valor de vida del cliente (CLV), además de elevar el posicionamiento <em>premium</em> de la marca
+                    td Creación de experiencias diferenciadas para segmentos específicos: acceso anticipado, colecciones limitadas, membresías VIP, contenido privado o beneficios por pertenencia a comunidad. Refuerza la percepción de valor y pertenencia.
+                    td Fidelización: aumenta la recompra, la lealtad y el valor de vida del cliente (CLV), además de elevar el posicionamiento <em>premium</em> de la marca.
                     td Una marca de moda femenina envía por <em>newsletter</em> acceso anticipado a su nueva colección solo para clientas frecuentes, permitiéndoles comprar 48 horas antes del lanzamiento público.
                   tr.bg-color-white
                     td Co-creación
-                    td Involucramiento directo del cliente en decisiones de diseño, <em>naming</em>, colores o campañas. Incluye votaciones, convocatorias de diseño, colaboraciones con la comunidad y dinámicas de <em>feedback</em> estructurado
-                    td Compromiso emocional: fortalece el sentido de pertenencia, la defensa de marca y la viralidad orgánica al hacer sentir al cliente parte del proceso
+                    td Involucramiento directo del cliente en decisiones de diseño, <em>naming</em>, colores o campañas. Incluye votaciones, convocatorias de diseño, colaboraciones con la comunidad y dinámicas de <em>feedback</em> estructurado.
+                    td Compromiso emocional: fortalece el sentido de pertenencia, la defensa de marca y la viralidad orgánica al hacer sentir al cliente parte del proceso.
                     td Una marca de <em>denim</em> invita a su comunidad a elegir el lavado del próximo <em>jean</em> mediante votación y luego etiqueta en redes a la comunidad como “co-creadora” del producto final.
     
     .bg-full-width.bg-fondo-1
@@ -475,23 +475,23 @@
                 tbody
                   tr.bg-color-white
                     td Nombre
-                    td Identificar y diferenciar la marca en la mente del consumidor mediante una denominación memorable, pronunciable y coherente con el posicionamiento. Debe facilitar la búsqueda digital y la asociación inmediata con la categoría o estilo de la marca
-                    td Recordación: mejora el <em>recall</em> de marca, facilita el voz a voz y aumenta la probabilidad de ser buscada directamente en redes o en Google. Un nombre fuerte reduce costos de adquisición a largo plazo
+                    td Identificar y diferenciar la marca en la mente del consumidor mediante una denominación memorable, pronunciable y coherente con el posicionamiento. Debe facilitar la búsqueda digital y la asociación inmediata con la categoría o estilo de la marca.
+                    td Recordación: mejora el <em>recall</em> de marca, facilita el voz a voz y aumenta la probabilidad de ser buscada directamente en redes o en Google. Un nombre fuerte reduce costos de adquisición a largo plazo.
                     td Una marca de moda urbana llamada “Barrio Fit” logra que los jóvenes la recuerden fácilmente y la busquen por nombre en Instagram cuando piensan en ropa <em>street</em> local.
                   tr.bg-color-8
                     td Identidad visual
-                    td Construir un sistema visual consistente (logo, tipografías, paleta de color, estilo fotográfico y dirección de arte) que permita reconocer la marca de forma inmediata en cualquier punto de contacto digital o físico
-                    td Profesionalismo: eleva la percepción de calidad, genera confianza inicial y mejora la coherencia de marca, lo que impacta positivamente en conversión y posicionamiento <em>premium</em>
+                    td Construir un sistema visual consistente (logo, tipografías, paleta de color, estilo fotográfico y dirección de arte) que permita reconocer la marca de forma inmediata en cualquier punto de contacto digital o físico.
+                    td Profesionalismo: eleva la percepción de calidad, genera confianza inicial y mejora la coherencia de marca, lo que impacta positivamente en conversión y posicionamiento <em>premium</em>.
                     td Una marca de moda femenina mantiene en su <em>feed</em> de Instagram una paleta neutra, tipografía elegante y fotografías minimalistas, logrando que cualquier publicación sea reconocible sin ver el logo.
                   tr.bg-color-white
                     td Propuesta de valor
-                    td Definir con claridad el beneficio diferencial que la marca ofrece frente a la competencia, conectando atributos funcionales y emocionales. Debe responder: qué ofrece, para quién y por qué es diferente
-                    td Atracción: incrementa la relevancia percibida, mejora la tasa de clic y conversión, y facilita que el cliente entienda rápidamente por qué elegir la marca
+                    td Definir con claridad el beneficio diferencial que la marca ofrece frente a la competencia, conectando atributos funcionales y emocionales. Debe responder: qué ofrece, para quién y por qué es diferente.
+                    td Atracción: incrementa la relevancia percibida, mejora la tasa de clic y conversión, y facilita que el cliente entienda rápidamente por qué elegir la marca.
                     td Una marca sostenible comunica: “Moda deportiva hecha con telas recicladas para mujeres que entrenan con propósito”, atrayendo a consumidoras conscientes del impacto ambiental.
                   tr.bg-color-8
                     td Símbolos de pertenencia
-                    td Incorporar elementos que refuercen la identidad de comunidad: <em>hashtags</em> de marca, nombres para la tribu, etiquetas visibles, empaques distintivos o rituales de marca que generen sentido de grupo
-                    td Fidelización: fortalece el vínculo emocional, promueve la recompra y estimula el contenido generado por usuarios al hacer que el cliente se sienta parte de algo
+                    td Incorporar elementos que refuercen la identidad de comunidad: <em>hashtags</em> de marca, nombres para la tribu, etiquetas visibles, empaques distintivos o rituales de marca que generen sentido de grupo.
+                    td Fidelización: fortalece el vínculo emocional, promueve la recompra y estimula el contenido generado por usuarios al hacer que el cliente se sienta parte de algo.
                     td Una marca de <em>streetwear</em> llama a sus clientes #TribuUrbana, incluye <em>stickers</em> en cada compra y motiva a subir fotos usando el <em>hashtag</em> para aparecer en el <em>feed</em> oficial.
     
     .row.mb-5.justify-content-center.align-items-center
@@ -562,7 +562,7 @@
               |  La actualización periódica de la descripción garantiza vigencia estratégica. 
             li.mb-3.d-flex
               i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-              |  •	Una comunidad bien presentada desde su descripción mejora la tasa de ingreso y la calidad de los miembros.
+              |  Una comunidad bien presentada desde su descripción mejora la tasa de ingreso y la calidad de los miembros.
     
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-up")
@@ -634,7 +634,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
                       h3.mb-1 Cómo posicionar tu marca creando una comunidad en redes sociales
-                      p.mb-0 Lo invitamos a ver el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, corresponde a un video donde se explica cómo posicionar una marca creando una comunidad digital usando las redes sociales.
+                      p.mb-0 Lo invitamos a consultar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, corresponde a un video donde se explica cómo posicionar una marca creando una comunidad digital usando las redes sociales.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=TVtRHg4Ey48 " target="_blank")
                         span Ir al video

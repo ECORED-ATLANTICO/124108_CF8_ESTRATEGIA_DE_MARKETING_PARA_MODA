@@ -15,7 +15,7 @@
             figure
               img(src="@/assets/curso/intro/1.png", data-aos="zoom-in")
           .col-lg-8
-            p El componente formativo aborda la publicidad digital aplicada al sistema moda, entendida como el conjunto de estrategias, técnicas y medios virtuales orientados a posicionar marcas, fortalecer su identidad y generar conversiones en entornos digitales. En un mercado altamente visual y competitivo, la gestión estratégica de la comunicación online se convierte en un eje determinante para la sostenibilidad empresarial.
+            p El componente formativo aborda la publicidad digital aplicada al sistema moda, entendida como el conjunto de estrategias, técnicas y medios virtuales orientados a posicionar marcas, fortalecer su identidad y generar conversiones en entornos digitales. En un mercado altamente visual y competitivo, la gestión estratégica de la comunicación <em>online</em> se convierte en un eje determinante para la sostenibilidad empresarial.
         
         .bg-color-1.mb-5.tarjeta.px-4.mb-5
           .row.align-items-center
