@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Plan de <em>marketing</em> digital
+      h1 Plan de <em>marketing</em> 
     
     .bg-full-width.bg-fondo-1
       .px-4.px-lg-5
@@ -197,7 +197,7 @@
                 img(src='@/assets/curso/tema3/18.png', alt='Imagen de acompañamiento')
             .col-lg-8.mb-4.mb-md-0.order-1
               h4 Objetivos de fidelización 
-              p.mb-0 Pretenden fortalecer la relación con los clientes actuales, incentivando la recompra y la interacción constante con la marca. Sus resultados se analizan mediante engagement, recurrencia y nivel de satisfacción. 
+              p.mb-0 Pretenden fortalecer la relación con los clientes actuales, incentivando la recompra y la interacción constante con la marca. Sus resultados se analizan mediante <em>engagement</em>, recurrencia y nivel de satisfacción. 
     
     .bg-color-9.p-4.mb-5.tarjeta.mb-5
       p.mb-0 Para que un objetivo sea realmente útil dentro de un plan de <em>marketing</em> digital, debe estar bien estructurado y facilitar el seguimiento de los resultados. Por ello, se recomienda aplicar el criterio SMART, el cual permite formular objetivos claros y alcanzables. Un objetivo debe ser:
@@ -358,7 +358,7 @@
             h5.mb-0 El público objetivo representa el conjunto de consumidores con características y necesidades similares, que tienen el potencial de interesarse en un producto o servicio, sus características pueden variar según el sector, la industria y el tipo de negocio, sin embargo, algunos aspectos fundamentales incluyen 
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h5.mb-0 Según Kotler y Keller (2016)
+            .h5.mb-0 Según Kotler y Keller (2016).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2.mb-3.mb-lg-0

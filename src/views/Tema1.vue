@@ -57,7 +57,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text Las técnicas de publicidad digital comprenden métodos específicos para ejecutar campañas efectivas en entornos virtuales, entre las más utilizadas en el sistema moda se encuentran el <em>display advertising</em>, la publicidad en redes sociales (<em>Social Ads</em>), el <em>remarketing</em> y el <em>marketing</em>de influencers. 
+        p.banner-text Las técnicas de publicidad digital comprenden métodos específicos para ejecutar campañas efectivas en entornos virtuales, entre las más utilizadas en el sistema moda se encuentran el <em>display advertising</em>, la publicidad en redes sociales (<em>Social Ads</em>), el <em>remarketing</em> y el <em>marketing</em> de <em>influencers</em>. 
     
     .row.justify-content-center
       .col-lg-12
@@ -87,7 +87,7 @@
               tr.bg-color-white
                 td <em>Remarketing</em>
                 td Recuperación
-                td Impacto a usuarios previos que visitaron la web, personalización del mensaje, aumento de probabilidad de conversión, seguimiento mediante cookies o píxeles.
+                td Impacto a usuarios previos que visitaron la web, personalización del mensaje, aumento de probabilidad de conversión, seguimiento mediante <em>cookies</em> o píxeles.
                 td Un <em>e-commerce</em> de calzado muestra anuncios personalizados a usuarios que abandonaron el carrito para motivar la finalización de la compra.
               tr.bg-color-8
                 td <em>Influencers</em>
@@ -152,7 +152,7 @@
                 img(src='@/assets/curso/tema1/15.png', alt='Imagen de acompañamiento')
             .col-lg-8.mb-4.mb-md-0.order-1
               h4 Video <em>marketing</em>
-              p.mb-0 En el sector moda ha ganado protagonismo, especialmente en formatos cortos como <em>reels o TikTok</em>, donde la demostración visual del producto influye significativamente en la decisión de compra.
+              p.mb-0 En el sector moda ha ganado protagonismo, especialmente en formatos cortos como <em>reels</em> o TikTok, donde la demostración visual del producto influye significativamente en la decisión de compra.
     
     .row.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0
@@ -251,7 +251,7 @@
                     td Posicionamiento
                     td Construir marca
                     td Construcción de identidad coherente, <em>storytelling</em> consistente, presencia sostenida en múltiples canales, enfoque en recordación y diferenciación competitiva.
-                    td Una marca de autor mantiene una línea visual y narrativa constante en redes sociales para consolidar su imagen como moda premium independiente.
+                    td Una marca de autor mantiene una línea visual y narrativa constante en redes sociales para consolidar su imagen como moda <em>premium</em> independiente.
 
         .row.justify-content-center.align-items-center
           .col-lg-4.mb-3.mb-lg-0
@@ -307,9 +307,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Tipos de medios virtuales
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/22.png", alt="la figura muestra los tipos de medios virtuales.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/22-1.png", alt="la figura muestra los tipos de medios virtuales.")
-        figcaption Fuente: SENA, 2026
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/22.png", alt="La figura describe los canales digitales utilizados en estrategias de marketing.  El primer recuadro destaca Instagram y TikTok como plataformas de contenido visual y emocional.  El segundo resalta los motores de búsqueda, que vinculan la intención del consumidor con la oferta de la marca,  El tercero Marketplace como vitrinas digitales que amplían el alcance comercial. Finalmente, el cuarto recuadro señala que los blogs especializados presentando contenido de valor que genera confianza y fomenta la fidelización de los clientes. ")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/22-1.png", alt="La figura describe los canales digitales utilizados en estrategias de marketing.  El primer recuadro destaca Instagram y TikTok como plataformas de contenido visual y emocional.  El segundo resalta los motores de búsqueda, que vinculan la intención del consumidor con la oferta de la marca,  El tercero Marketplace como vitrinas digitales que amplían el alcance comercial. Finalmente, el cuarto recuadro señala que los blogs especializados presentando contenido de valor que genera confianza y fomenta la fidelización de los clientes. ")
+        figcaption Nota. SENA, (2026).
     
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0
@@ -398,7 +398,7 @@
           .col-lg-auto.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema1/4.svg").mx-auto
           .col-lg
-            p.mb-0 Desde una perspectiva metodológica, el calendario debe incluir objetivos, tipo de contenido, formato, canal, fecha de publicación y responsable. El calendario facilita la medición y el análisis <em>Post</em>erior, al comparar fechas y resultados, la empresa puede identificar qué tipo de contenido genera mayor interacción o conversión. Esta organización evita improvisación y fortalece la consistencia comunicativa.
+            p.mb-0 Desde una perspectiva metodológica, el calendario debe incluir objetivos, tipo de contenido, formato, canal, fecha de publicación y responsable. El calendario facilita la medición y el análisis posterior, al comparar fechas y resultados, la empresa puede identificar qué tipo de contenido genera mayor interacción o conversión. Esta organización evita improvisación y fortalece la consistencia comunicativa.
 
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-up")
@@ -548,11 +548,11 @@
               tr.bg-color-8
                 td 14
                 td Comunidad
-                td <em>Live</em> con influencer
+                td <em>Live</em> con <em>influencer</em>
                 td En vivo
                 td Instagram
                 td 14 del mes
-                td CM + Influencer
+                td CM + <em>influencer</em>
               tr.bg-color-white
                 td 15
                 td Conversión

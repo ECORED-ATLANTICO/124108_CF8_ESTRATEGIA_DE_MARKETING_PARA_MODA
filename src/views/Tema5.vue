@@ -130,7 +130,7 @@
         figure
           img(src="@/assets/curso/tema5/10.png", data-aos="zoom-in")
       .col-lg-8
-        p(data-aos="fade-right") En el sistema moda, identificar correctamente la tipología predominante mejora la coherencia entre oferta y demanda, una marca sostenible que comunique como marca de lujo aspiracional puede generar disonancia, por ello, la tipología debe guiar decisiones de branding, <em>pricing</em> y contenido digital. El conocimiento profundo del perfil del consumidor fortalece el posicionamiento competitivo.
+        p(data-aos="fade-right") En el sistema moda, identificar correctamente la tipología predominante mejora la coherencia entre oferta y demanda, una marca sostenible que comunique como marca de lujo aspiracional puede generar disonancia, por ello, la tipología debe guiar decisiones de <em>branding, pricing</em> y contenido digital. El conocimiento profundo del perfil del consumidor fortalece el posicionamiento competitivo.
         .row.align-items-center.bg-color-1.px-4.tarjeta
           .col-lg-auto.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema5/11.png").mx-auto
@@ -171,7 +171,7 @@
                 p.mb-0 Entre las características más relevantes se encuentran la estructura demográfica, la capacidad adquisitiva, la ubicación geográfica y los patrones socioculturales. La estructura demográfica identifica composición por edad y género; la capacidad adquisitiva estima poder de compra; la ubicación geográfica permite adaptar oferta logística; los patrones socioculturales revelan valores y estilos de vida. 
     
         .bg-color-9.p-4.mb-5.tarjeta.mb-5
-          p.mb-0 Cada característica aporta una dimensión analítica distinta que enriquece la comprensión del mercado, en el sistema moda, estas variables influyen directamente en decisiones de diseño, <em>pricing</em> y distribución. Por ejemplo, una población joven urbana puede demandar moda rápida y digitalizada, mientras que un segmento adulto premium puede priorizar calidad y exclusividad. La lectura integrada de las características poblacionales permite anticipar tendencias y reducir incertidumbre comercial.
+          p.mb-0 Cada característica aporta una dimensión analítica distinta que enriquece la comprensión del mercado, en el sistema moda, estas variables influyen directamente en decisiones de diseño, <em>pricing</em> y distribución. Por ejemplo, una población joven urbana puede demandar moda rápida y digitalizada, mientras que un segmento adulto <em>premium</em> puede priorizar calidad y exclusividad. La lectura integrada de las características poblacionales permite anticipar tendencias y reducir incertidumbre comercial.
         
         separador
         
@@ -183,11 +183,11 @@
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 5.
+          h5 Figura 3.
           span Características de las técnicas de segmentación 
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/15.svg", alt="la figura muestra las características de las técnicas de segmentación")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/15-1.svg", alt="la figura muestra las características de las técnicas de segmentación")
-        figcaption Fuente: SENA, 2026
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema5/15.svg", alt="La figura describe la evolución de las estrategias de segmentación de mercados, iniciando con la identificación de grupos específicos, avanzando hacia enfoques apoyados en datos y tecnologías digitales, y culminando con una orientación centrada en el valor que aportan los clientes a la organización. Además destaca la relación progresiva entre estos enfoques y su contribución a una segmentación más precisa, personalizada y estratégica.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema5/15-1.svg", alt="La figura describe la evolución de las estrategias de segmentación de mercados, iniciando con la identificación de grupos específicos, avanzando hacia enfoques apoyados en datos y tecnologías digitales, y culminando con una orientación centrada en el valor que aportan los clientes a la organización. Además destaca la relación progresiva entre estos enfoques y su contribución a una segmentación más precisa, personalizada y estratégica.")
+        figcaption Nota. SENA, (2026).
     
     .row.justify-content-center.mb-5
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -197,7 +197,7 @@
               img(src="@/assets/curso/tema5/16.png", alt="alt")
           .crd_hover_txt--body
             h4.mb-3 Segmentación por nichos
-            p.mb-0 Una marca se enfoca exclusivamente en ropa deportiva para mujeres <em>plus size</em> que practican crossfit, creando prendas técnicas adaptadas a ese nicho.
+            p.mb-0 Una marca se enfoca exclusivamente en ropa deportiva para mujeres <em>plus size</em> que practican <em>crossfit</em>, creando prendas técnicas adaptadas a ese nicho.
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img

@@ -125,7 +125,7 @@
         .col-lg-auto.mb-lg-0.order-lg-2
           img.d-none.d-lg-flex(src="@/assets/curso/tema4/8.png").mx-auto
         .col-lg.order-lg-1
-          p.mb-0 <b>Ejemplo aplicado</b>. La marca Raíz Urbana implementó estas cinco fases antes del lanzamiento de su colección cápsula. Gracias a la fase de diagnóstico identificó que su audiencia principal estaba en Instagram y no en Facebook, lo que permitió optimizar presupuesto y aumentar la tasa de conversión en 22 %.
+          p.mb-0 <b>Ejemplo aplicado</b>. La marca Distrito Urbano Lab implementó una comunidad híbrida: mantenía presencia abierta en Instagram para posicionamiento y un grupo privado para clientes VIP. Esta estrategia permitió captar nuevos seguidores mientras fortalecía relaciones con compradores recurrentes, incrementando sus ventas en 29 % anual.
     
     .row.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0
@@ -264,7 +264,7 @@
                       figure
                         img(src='@/assets/curso/tema4/21.png', alt='Texto que describa la imagen')
                   h3.mb-4.text-center Dinamización
-                  p.text-center Busca mantener la participación mediante interacción continua
+                  p.text-center Busca mantener la participación mediante interacción continua.
 
         .bg-color-9.p-4.mb-5.tarjeta.mb-5
           p.mb-0 En el sistema moda, el éxito del proceso depende de la coherencia entre el propósito comunitario y la identidad de marca, una comunidad creada solo para vender pierde credibilidad, en cambio, cuando ofrece valor real —como acceso anticipado, conocimiento de tendencias o interacción directa— se fortalece el compromiso, la creación de comunidad debe entenderse como inversión relacional de largo plazo.
@@ -321,11 +321,11 @@
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 4.
+          h5 Figura 2.
           span Roles en las comunidades virtuales 
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/26.png", alt="la figura muestra los roles en las comunidades virtuales.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/26-1.png", alt="la figura muestra los roles en las comunidades virtuales.")
-        figcaption Fuente: SENA, 2026
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/26.png", alt="La figura representa los diferentes niveles de participación dentro de una comunidad digital. La estructura muestra una distribución de roles organizados según sus responsabilidades, desde funciones de liderazgo y gestión hasta actividades de supervisión, participación constante y promoción de la comunidad o la marca. También destaca cómo cada perfil contribuye al funcionamiento, crecimiento y fortalecimiento del entorno colaborativo. ")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/26-1.png", alt="La figura representa los diferentes niveles de participación dentro de una comunidad digital. La estructura muestra una distribución de roles organizados según sus responsabilidades, desde funciones de liderazgo y gestión hasta actividades de supervisión, participación constante y promoción de la comunidad o la marca. También destaca cómo cada perfil contribuye al funcionamiento, crecimiento y fortalecimiento del entorno colaborativo. ")
+        figcaption Nota. SENA, (2026).
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3

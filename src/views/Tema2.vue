@@ -188,7 +188,7 @@
         .col-lg-auto.mb-lg-0.order-lg-2
           img.d-none.d-lg-flex(src="@/assets/curso/tema2/19.png").mx-auto
         .col-lg.order-lg-1
-          p.mb-0 <b>Ejemplo aplicado</b>. La marca Raíz Textil Co. Decidió unificar su paleta de colores, mejorar la iluminación en sus fotografías y estructurar cada publicación con un llamado a la acción claro. En cuatro meses, su tasa de interacción aumentó 41 % y logró mayor recordación de marca.
+          p.mb-0 <b>Ejemplo aplicado</b>. La marca Raíz Textil Co. decidió unificar su paleta de colores, mejorar la iluminación en sus fotografías y estructurar cada publicación con un llamado a la acción claro. En cuatro meses, su tasa de interacción aumentó 41 % y logró mayor recordación de marca.
     
     .row.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0
@@ -342,7 +342,7 @@
                 p.mb-0 Clasifica la pieza según la función estratégica que cumple dentro del plan de comunicación. Puede ser inspiracional (motiva y conecta emocionalmente), educativo (enseña o informa), promocional (impulsa ventas o destaca ofertas), interactivo (fomenta participación), de entretenimiento (genera diversión y recordación) o enfocado en valores de marca (comunica propósito, cultura y diferenciadores). 
               .tarjeta.color-acento-botones--borde.p-4(titulo="Formato")
                 h4 Formato
-                p.mb-0 Define la forma en que se presentará el contenido en el canal digital. Puede tratarse de un <em>Post</em> estático, carrusel, <em>reel</em>, video corto, historia, artículo de blog, <em>podcast</em>, infografía, transmisión en vivo o <em>newsletter</em>. La elección del formato dependerá del objetivo, la plataforma y las preferencias del público objetivo.
+                p.mb-0 Define la forma en que se presentará el contenido en el canal digital. Puede tratarse de un <em>post</em> estático, carrusel, <em>reel</em>, video corto, historia, artículo de blog, <em>podcast</em>, infografía, transmisión en vivo o <em>newsletter</em>. La elección del formato dependerá del objetivo, la plataforma y las preferencias del público objetivo.
               .tarjeta.color-acento-botones--borde.p-4(titulo="Tema o mensaje central")
                 h4 Tema o mensaje central
                 p.mb-0 Resume la idea principal que se desea transmitir en la pieza. Debe ser claro, relevante y coherente con la estrategia de la marca. Ejemplos: “Moda sostenible”, “Nueva colección otoño”, “Consejos de estilo ejecutivo”, “Beneficios de comprar local” o “Historias de clientes satisfechos”. 
