@@ -263,7 +263,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nicolás Cruz Ríos ',
+          nombre: 'Nicolás Cruz Ríos',
           cargo: ' Experto Temático ',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico ',
         },
