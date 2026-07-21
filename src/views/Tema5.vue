@@ -336,7 +336,7 @@
             img.d-lg-flex.d-none(src="@/assets/curso/tema5/11.png").mx-auto
           .col-lg
             h5 Pregunta de aplicación
-            p.mb-0 ¿Qué interpretación harías si una campaña tiene alto alcance, pero bajo engagement?
+            p.mb-0 ¿Qué interpretación harías si una campaña tiene alto alcance, pero bajo <em>engagement</em>?
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-8(data-aos="fade-down") 

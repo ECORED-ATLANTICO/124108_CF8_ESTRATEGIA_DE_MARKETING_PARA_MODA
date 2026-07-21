@@ -351,7 +351,7 @@
                 p.mb-0 Establece la meta específica que se busca alcanzar con el contenido. Puede orientarse a generar interacción, aumentar ventas, educar a la audiencia, reforzar la identidad de marca, atraer tráfico al sitio web, captar <em>leads</em>, fidelizar clientes o posicionar un producto o servicio. 
               .tarjeta.color-acento-botones--borde.p-4(titulo="Llamado a la acción (CTA)")
                 h4 Llamado a la acción (CTA)
-                p.mb-0 Es la instrucción concreta que guía al usuario hacia la acción deseada. Debe ser breve, directo y persuasivo. Ejemplos: “Compra ahora”, “Descubre la colección”, “Comenta tu favorito”, “Escríbenos por WhatsApp”, “Descarga la guía gratuita” o “Visita nuestro sitio web”
+                p.mb-0 Es la instrucción concreta que guía al usuario hacia la acción deseada. Debe ser breve, directo y persuasivo. Ejemplos: “Compra ahora”, “Descubre la colección”, “Comenta tu favorito”, “Escríbenos por WhatsApp”, “Descarga la guía gratuita” o “Visita nuestro sitio web”.
 
         p.mb-5 Veamos dos ejemplos aplicados al sistema moda, para darle significancia a cada componente:       
 

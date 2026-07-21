@@ -114,7 +114,7 @@
       .col-lg-7
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-17")
           div(titulo="Primera tipología")
-            p.ms-5 Corresponde a las comunidades abiertas, accesibles a cualquier usuario interesado, se caracterizan por alta visibilidad y facilidad de crecimiento, aunque menor control sobre la interacción, son útiles para marcas que buscan posicionamiento amplio y reconocimiento masivo.
+            p.ms-5 La primera tipología corresponde a las comunidades abiertas, accesibles a cualquier usuario interesado, se caracterizan por alta visibilidad y facilidad de crecimiento, aunque menor control sobre la interacción, son útiles para marcas que buscan posicionamiento amplio y reconocimiento masivo.
           div(titulo="Segunda tipología")
             p.ms-5 La segunda tipología incluye las comunidades cerradas o privadas, donde el acceso requiere aprobación o pertenencia previa (clientes frecuentes, miembros <em>premium</em>), sus características principales son exclusividad, mayor cohesión y alto nivel de compromiso. En el sistema moda, este modelo es frecuente en marcas de lujo o sostenibles que desean fortalecer identidad selectiva, la exclusividad incrementa el sentido de pertenencia y eleva la percepción de valor.
           div(titulo="Tercera tipología")
@@ -341,7 +341,7 @@
         .col-lg-auto.mb-lg-0.order-lg-2
           img.d-none.d-lg-flex(src="@/assets/curso/tema4/8.png").mx-auto
         .col-lg.order-lg-1
-          p.mb-0 <b>Ejemplo aplicado</b>. La marca Urbana Colectiva identificó a sus seguidores más participativos y los convirtió en embajadores digitales, otorgándoles acceso anticipado a lanzamientos. Esta estrategia aumentó la recomendación orgánica y elevó el engagement en 37 %.
+          p.mb-0 <b>Ejemplo aplicado</b>. La marca Urbana Colectiva identificó a sus seguidores más participativos y los convirtió en embajadores digitales, otorgándoles acceso anticipado a lanzamientos. Esta estrategia aumentó la recomendación orgánica y elevó el <em>engagement</em> en 37 %.
     
     .row.justify-content-center.align-items-center.z-2
       .col-lg-10(data-aos="fade-down") 

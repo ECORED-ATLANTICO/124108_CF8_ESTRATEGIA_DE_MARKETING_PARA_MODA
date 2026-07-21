@@ -267,14 +267,14 @@
                     img(src='@/assets/curso/tema1/01.svg' alt='AvatarTop')
                   .tarjeta.tarjeta--azul.h-100
                     .p-3
-                      p.mb-0 <b><em>Inbound</em> sin conversión</b>: estás educando gratis al mercado.
+                      p.mb-0 <b><em>Inbound</em> sin conversión</b>: se está educando gratis al mercado.
               .col-lg-6.mb-3.mb-lg-0
                 .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-down")
                   .tarjeta-avatar-b__img
                     img(src='@/assets/curso/tema1/02.svg' alt='AvatarTop')
                   .tarjeta.tarjeta--azul.h-100
                     .p-3
-                      p.mb-0 <b>Conversión sin posicionamiento</b>: vendes hoy, desapareces mañana.
+                      p.mb-0 <b>Conversión sin posicionamiento</b>: se vende hoy, desaparece mañana. 
             .row
               .col-lg-6.mb-3.mb-lg-0
                 .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-up")
@@ -282,7 +282,7 @@
                     img(src='@/assets/curso/tema1/03.svg' alt='AvatarTop')
                   .tarjeta.tarjeta--azul.h-100
                     .p-3
-                      p.mb-0 <b><em>Remarketing</em> sin tráfico suficiente</b>: le hablas siempre a los mismos.
+                      p.mb-0 <b><em>Remarketing</em> sin tráfico suficiente</b>: se le habla siempre a los mismos.
               .col-lg-6.mb-3.mb-lg-0
                 .tarjeta-avatar-b.align-items-center.h-100(data-aos="fade-up")
                   .tarjeta-avatar-b__img
@@ -746,7 +746,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
                       h3.mb-1 Diccionario con términos de <em>marketing</em> digital
-                      p.mb-0 Lo invitamos a visitar el siguiente enlace en donde podrá apreciar una página de la empresa <em>marketing</em>miempresa.com, que contine un amplio diccionario de términos aplicados en el mundo del <em>marketing</em> digital
+                      p.mb-0 Lo invitamos a visitar el siguiente enlace en donde podrá apreciar una página de la empresa <em>marketing</em>miempresa.com, que contine un amplio diccionario de términos aplicados en el mundo del <em>marketing</em> digital.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.marketingmiempresa.com/diccionario-terminos-marketing-digital/" target="_blank")
                         span Ir al enlace
