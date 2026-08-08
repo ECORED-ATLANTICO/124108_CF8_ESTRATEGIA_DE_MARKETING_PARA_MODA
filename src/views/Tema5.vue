@@ -70,7 +70,7 @@
                 p.ms-5 Patrones observables de interacción con la marca y el entorno digital: frecuencia de compra, <em>ticket</em> promedio, momentos de consumo, respuesta a promociones, uso de dispositivos, <em>engagement</em> en redes y recorrido del cliente (<em>customer journey</em>).
                 p.ms-5 <b>Optimizar campañas:</b> permite personalizar mensajes, automatizar <em>remarketing</em>, mejorar la segmentación en pauta, ajustar <em>timing</em> de promociones y aumentar la conversión mediante decisiones basadas en datos reales de comportamiento.
                 h5.ms-5 Ejemplo.
-                p.ms-5.mb-0 Un <em>e-commerce</em> de <em>streetwear</em> detecta que muchos usuarios abandonan el carrito en la noche y activas campañas de <em>remarketing</em> con descuento válido por 24 horas, recuperando ventas perdidas.
+                p.ms-5.mb-0 Un <em>e-commerce</em> de <em>streetwear</em> detecta que muchos usuarios abandonan el carrito en la noche y activa campañas de <em>remarketing</em> con descuento válido por 24 horas, recuperando ventas perdidas.
         
 
     .bg-color-9.p-4.mb-5.tarjeta.mb-5
@@ -346,7 +346,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema5/22.png").mx-auto
             .col-lg
               p.mb-0 <b>Cita de reflexión</b>.  
-              p.mb-0 “Medir sin honestidad produce datos; medir con integridad produce decisiones inteligentes.”  
+              p.mb-0 “Medir sin honestidad produce datos; medir con integridad produce decisiones inteligentes”.  
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0.order-lg-2

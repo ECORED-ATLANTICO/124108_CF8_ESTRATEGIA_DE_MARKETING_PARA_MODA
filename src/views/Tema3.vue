@@ -56,7 +56,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Plan de <em>marketing</em>: qué es y cómo hacer uno paso a paso
-                  p.mb-0 Lo invitamos a ver el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video titulado “Plan de <em>marketing</em>: qué es y cómo hacer uno paso a paso”, publicado por InboundCycle - <em>marketing</em> y ventas <em>inbound</em>, explica de manera clara y estructurada cómo elaborar un plan de <em>marketing</em> desde cero.
+                  p.mb-0 Lo invitamos a ver el siguiente recurso educativo, por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video titulado “Plan de <em>marketing</em>: qué es y cómo hacer uno paso a paso”, publicado por InboundCycle - <em>marketing</em> y ventas <em>inbound</em>, explica de manera clara y estructurada cómo elaborar un plan de <em>marketing</em> desde cero.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=YpcxMRGtR0I " target="_blank")
                     span Ir al video
@@ -150,7 +150,7 @@
         .col-lg-auto.mb-lg-0
           img.d-none.d-lg-flex(src="@/assets/curso/tema3/13.png").mx-auto
         .col-lg
-          p.mb-0 <b>Ejemplo aplicado</b>. La marca Raíz Urbana implementó estas cinco fases antes del lanzamiento de su colección cápsula. Gracias a la fase de diagnóstico identificó que su audiencia principal estaba en Instagram y no en Facebook, lo que permitió optimizar presupuesto y aumentar la tasa de conversión en 22 %.
+          p.mb-0 <b>Ejemplo aplicado</b>. La marca Raíz Urbana implementó estas cinco fases antes del lanzamiento de su colección cápsula. Gracias a la fase de diagnóstico, identificó que su audiencia principal estaba en Instagram y no en Facebook, lo que permitió optimizar presupuesto y aumentar la tasa de conversión en 22 %.
     
     separador
     
@@ -288,7 +288,7 @@
             .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema3/26.png").mx-auto
             .col-lg
-              p.mb-0 <b>Clave estratégica</b>.  Las metas permiten convertir la intención estratégica en compromiso operativo, la coherencia entre ellas y recursos disponibles garantiza viabilidad y evita frustraciones organizacionales.
+              p.mb-0 <b>Clave estratégica</b>.  Las metas permiten convertir la intención estratégica en compromiso operativo, la coherencia entre ellas y los recursos disponibles garantiza viabilidad y evita frustraciones organizacionales.
 
     .bg-color-9.p-4.mb-5.tarjeta.mb-5
       p.mb-0 Las metas pueden clasificarse según su horizonte temporal en metas de corto, mediano y largo plazo. Esta diferenciación permite equilibrar resultados inmediatos con sostenibilidad empresarial.
@@ -614,7 +614,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Qué es el SEO: guía definitiva para principiantes.
-                  p.mb-0 Lo invitamos a consultar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video publicado en el canal HubSpot Español, nos introduce al concepto de SEO, indicando los tipos y el impacto dentro de <em>marketing</em> digital.
+                  p.mb-0 Lo invitamos a consultar el siguiente recurso educativo, por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video publicado en el canal HubSpot Español, nos introduce al concepto de SEO, indicando los tipos y el impacto dentro de <em>marketing</em> digital.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=BicIvYl7kkY " target="_blank")
                     span Ir al video
@@ -725,7 +725,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema3/50.png").mx-auto
             .col-lg
               p.mb-0 <b>Cita de reflexión</b>.  
-              p.mb-0 “La honestidad con uno mismo es la primera clave para planificar con eficacia; sin integridad, cualquier plan es vulnerable a la improvisación.” 
+              p.mb-0 “La honestidad con uno mismo es la primera clave para planificar con eficacia; sin integridad, cualquier plan es vulnerable a la improvisación”. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-3.mb-lg-0.order-lg-2

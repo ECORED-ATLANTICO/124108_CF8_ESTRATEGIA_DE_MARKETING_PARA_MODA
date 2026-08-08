@@ -20,10 +20,10 @@ export default {
       tema: 'Fundamentos digitales.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> verificar la comprensión de conceptos clave de publicidad, contenidos, comunidades y audiencias en el Sistema Moda.',
+        '<b> Objetivo:</b> verificar la comprensión de conceptos clave de comunicación de marcas en el sistema moda.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
@@ -57,8 +57,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Se compone de todas las acciones promocionales y de comunicación desplegadas en el ecosistema virtual.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -93,8 +92,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Su objetivo clave es la organización temporal, estratégica y estructurada de los contenidos de la marca.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -127,8 +125,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Se basa en aportar información útil, relevante y de alto valor para conectar de forma orgánica con el público objetivo.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -162,8 +159,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! El <em>SEO</em> optimiza la infraestructura y contenido web para escalar posiciones en los resultados de búsqueda sin pagar por clic.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -198,8 +194,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Funcionan como indexadores que agrupan los contenidos por temáticas comunes para expandir su alcance orgánico.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -234,8 +229,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Permite aterrizar la estrategia definiendo con precisión los formatos, las temáticas y los canales de distribución.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -270,8 +264,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Todo plan estratégico sólido requiere estructurar metas claras mediante metodologías verificables y cuantificables.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -306,8 +299,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Mientras el primero se enfoca en la optimización orgánica y gratuita a largo plazo, el segundo gestiona pautas y enlaces patrocinados e inmediatos.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -341,8 +333,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Se define por el intercambio activo, la co-creación y el diálogo bidireccional entre usuarios que comparten aficiones o afinidad por una marca.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -377,8 +368,7 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Su rol principal radica en humanizar la marca, moderar los canales de conversación y estrechar relaciones estables con la audiencia.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -413,8 +403,7 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Clasificar al público por nichos específicos incrementa drásticamente la tasa de conversión y la relevancia de los mensajes.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -449,8 +438,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! El consumidor contemporáneo es hiperconectado, multidispositivo y demanda flujos dinámicos de comunicación y omnicanalidad.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -485,8 +473,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! A diferencia del esquema tradicional intrusivo, busca que sea el cliente potencial quien encuentre orgánicamente a la marca motivado por soluciones de valor.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -521,8 +508,7 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Entregan explicaciones, guías de uso o contextos contextuales que resuelven dudas operativas reales de la comunidad.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -557,8 +543,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! El análisis sistemático de métricas permite pivotar y refinar las inversiones basándose en evidencias empíricas de comportamiento contable.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -593,8 +578,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Mantener una identidad sólida, unificada y con una línea estética clara consolida el recuerdo y autoridad de la firma <em>online</em>.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -629,8 +613,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Actúa como el puente o detonador imperativo visual que invita al usuario a suscribirse, comprar o descargar un recurso específico.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -665,8 +648,7 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Su éxito real se mide a través del compromiso, el sentido de pertenencia y los niveles activos de conversación de sus miembros.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -701,8 +683,7 @@ export default {
               esCorrecta: true,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Facilita la hiper-segmentación demográfica, geográfica y psicográfica para adaptar colecciones y mensajes estéticos con máxima precisión.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
@@ -737,14 +718,14 @@ export default {
               esCorrecta: false,
             },
           ],
-          mensaje_correcto:
-            '¡Muy bien! Son lineamientos esenciales de moderación orientados a proteger la salud del entorno, resguardando la reputación de la comunidad y de la firma.',
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
       ],
-      mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
+      mensaje_final_aprobado:
+        '¡Excelente! ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
       mensaje_final_reprobado:
-        'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+        'No ha superado la actividad. Recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
   }),
 }

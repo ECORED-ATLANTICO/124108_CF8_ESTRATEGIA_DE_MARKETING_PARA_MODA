@@ -124,7 +124,7 @@
                 img(src='@/assets/curso/tema1/9.png', alt='Imagen de acompañamiento')
             .col-lg-8.mb-4.mb-md-0.order-1
               h4 De búsqueda
-              p.mb-0 Se activa cuando el usuario realiza una consulta específica en motores como Google. Por ejemplo, si una persona busca “vestidos de fiesta en Bogotá”, los anuncios pagados aparecen en los primeros resultados, responde a una intención directa de compra.
+              p.mb-0 Se activa cuando el usuario realiza una consulta específica en motores como Google. Por ejemplo, si una persona busca “vestidos de fiesta en Bogotá”, los anuncios pagados aparecen en los primeros resultados, responden a una intención directa de compra.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-4.mb-3.mb-lg-0.order-2
               figure
@@ -398,7 +398,7 @@
           .col-lg-auto.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema1/4.svg").mx-auto
           .col-lg
-            p.mb-0 Desde una perspectiva metodológica, el calendario debe incluir objetivos, tipo de contenido, formato, canal, fecha de publicación y responsable. El calendario facilita la medición y el análisis posterior, al comparar fechas y resultados, la empresa puede identificar qué tipo de contenido genera mayor interacción o conversión. Esta organización evita improvisación y fortalece la consistencia comunicativa.
+            p.mb-0 Desde una perspectiva metodológica, el calendario debe incluir objetivos, tipo de contenido, formato, canal, fecha de publicación y responsable. El calendario facilita la medición y el análisis posterior, al comparar fechas y resultados, la empresa puede identificar qué tipo de contenido genera mayor interacción o conversión. Esta organización evita la improvisación y fortalece la consistencia comunicativa.
 
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-up")

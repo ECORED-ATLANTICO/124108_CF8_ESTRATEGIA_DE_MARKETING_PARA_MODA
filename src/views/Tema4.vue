@@ -225,7 +225,7 @@
           .col-lg-10(data-aos="fade-up")
             p.banner-text El proceso de creación de comunidades virtuales en el sistema moda sigue una secuencia metodológica que permite pasar de la intención estratégica a la consolidación del grupo. Este proceso inicia con la definición del propósito comunitario, continúa con la selección de la plataforma y culmina con la activación y dinamización de la comunidad, cuando se omiten etapas, la comunidad tiende a fragmentarse o perder relevancia, por ello, la creación debe abordarse de manera estructurada.
           
-        p.mb-5 Proceso de creación de comunidades virtuales 
+        p.mb-5 Proceso de creación de comunidades virtuales: 
         
         .row.mb-3.justify-content-center.align-items-center
           .col-lg-4.mb-3.mb-lg-0
@@ -634,7 +634,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
                       h3.mb-1 Cómo posicionar tu marca creando una comunidad en redes sociales
-                      p.mb-0 Lo invitamos a consultar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, corresponde a un video donde se explica cómo posicionar una marca creando una comunidad digital usando las redes sociales.
+                      p.mb-0 Lo invitamos a consultar el siguiente recurso educativo por medio del cual podrá profundizar en la temática abordada, corresponde a un video donde se explica cómo posicionar una marca creando una comunidad digital usando las redes sociales.
                     .col-sm-auto
                       a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=TVtRHg4Ey48 " target="_blank")
                         span Ir al video
@@ -648,7 +648,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema4/45.png").mx-auto
             .col-lg
               p.mb-0 <b>Cita de reflexión</b>.  
-              p.mb-0 “La verdadera influencia no se construye con seguidores, sino con coherencia entre lo que se dice y lo que se hace.” 
+              p.mb-0 “La verdadera influencia no se construye con seguidores, sino con coherencia entre lo que se dice y lo que se hace”. 
 
 </template>
 

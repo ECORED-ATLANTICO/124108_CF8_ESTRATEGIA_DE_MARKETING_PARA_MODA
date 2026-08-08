@@ -250,7 +250,7 @@
                   img(src="@/assets/curso/tema2/26.png", alt="alt")
               .crd_hover_txt--body
                 h4.mb-3 Participar en tendencias
-                p.mb-0 Integrarse a conversaciones globales amplía alcance.
+                p.mb-0 Integrarse a conversaciones globales amplía el alcance.
 
         .bg-color-9.p-4.mb-5.tarjeta.mb-5
           p.mb-0 Sin embargo, el uso excesivo o irrelevante de etiquetas puede afectar la percepción profesional. La selección debe ser estratégica, alineada con el público objetivo y coherente con el mensaje de la publicación.
@@ -520,7 +520,7 @@
     .bg-full-width.bg-fondo-1
       .px-4.px-lg-5
         #t_2_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 2.6 Calendarios de contenido
+          h2 2.6 Calendarios
         
         p El calendario de contenido es la herramienta operativa que traduce la parrilla en fechas concretas de publicación y responsables, mientras la parrilla define la estrategia, el calendario define la ejecución.
 
@@ -539,7 +539,7 @@
                 |  Lanzamientos de colección.
               li.mb-3.d-flex
                 i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
-                |  Fechas comerciales (<em>black friday</em>, día de la Madre, eventos locales).
+                |  Fechas comerciales (<em>Black Friday</em>, día de la Madre, eventos locales).
               li.mb-3.d-flex
                 i.fas.fa-caret-right.fa-xl.mt-2.bg-color-26
                 |  Tendencias emergentes.
@@ -549,82 +549,82 @@
             .bg-color-9.tarjeta.p-4
               p.mb-0 Un calendario permite anticiparse a campañas, coordinar equipos de fotografía, diseño y pauta, y evitar improvisaciones de última hora.
     
-    .bg-color-1.tarjeta.px-4.mb-5
-      .row.align-items-center
-        .col-lg-auto.mb-lg-0.order-lg-2
-          img.d-none.d-lg-flex(src="@/assets/curso/tema2/37.png").mx-auto
-        .col-lg.order-lg-1
-          p.mb-0 La gestión de contenido se optimiza mediante herramientas digitales que permiten organizar publicaciones, analizar datos y mejorar la productividad en la creación de estrategias digitales, su dominio implica destinar tiempo para su aprendizaje y la práctica suficiente para aprovechar al máximo su potencia, a continuación, referenciaremos algunas de estas herramientas, las cuales se invita a conocer y profundizar en ellas para su adecuado uso.
+        .bg-color-1.tarjeta.px-4.mb-5
+          .row.align-items-center
+            .col-lg-auto.mb-lg-0.order-lg-2
+              img.d-none.d-lg-flex(src="@/assets/curso/tema2/37.png").mx-auto
+            .col-lg.order-lg-1
+              p.mb-0 La gestión de contenido se optimiza mediante herramientas digitales que permiten organizar publicaciones, analizar datos y mejorar la productividad en la creación de estrategias digitales, su dominio implica destinar tiempo para su aprendizaje y la práctica suficiente para aprovechar al máximo su potencia, a continuación, referenciaremos algunas de estas herramientas, las cuales se invita a conocer y profundizar en ellas para su adecuado uso.
     
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.mb-3.mb-lg-0
-        figure
-          img(src="@/assets/curso/tema2/39.png", data-aos="zoom-in")
-      .col-lg-8
-        .bg-color-2.tarjeta.p-4
-          p.mb-0 La planificación de contenido requiere herramientas que permitan organizar ideas, programar publicaciones, diseñar piezas gráficas y medir resultados. Estas plataformas optimizan el trabajo del <em>community manager</em> y facilitan la ejecución de estrategias de comunicación más eficientes.
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-4.mb-3.mb-lg-0
+            figure
+              img(src="@/assets/curso/tema2/39.png", data-aos="zoom-in")
+          .col-lg-8
+            .bg-color-2.tarjeta.p-4
+              p.mb-0 La planificación de contenido requiere herramientas que permitan organizar ideas, programar publicaciones, diseñar piezas gráficas y medir resultados. Estas plataformas optimizan el trabajo del <em>community manager</em> y facilitan la ejecución de estrategias de comunicación más eficientes.
     
-    .row.mb-5.justify-content-center
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
-        .tarjeta--boton.bg-color-3.h-100.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/tema2/40.png', alt='Texto que describa la imagen')
-          .bg-color-10.p-2.mb-3
-            h3.mb-0.text-center Trello
-          p.text-center Ideal para la planificación visual de contenidos mediante tableros interactivos.
-          p.text-center Sitio de la herramienta:
-          .row.justify-content-center
-            .col-auto 
-              a.boton.color-acento-botones(href="https://trello.com/es " target="_blank")
-                span Ir al enlace
-                i.fas.fa-link
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
-        .tarjeta--boton.bg-color-3.h-100.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/tema2/41.png', alt='Texto que describa la imagen')
-          .bg-color-10.p-2.mb-3
-            h3.mb-0.text-center Google calendar
-          p.text-center Facilita la programación y coordinación de publicaciones en distintos medios.
-          p.text-center Sitio de la herramienta:
-          .row.justify-content-center
-            .col-auto 
-              a.boton.color-acento-botones(href="https://calendar.google.com/calendar/u/0/r?pli=1" target="_blank")
-                span Ir al enlace
-                i.fas.fa-link
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
-        .tarjeta--boton.bg-color-3.h-100.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/tema2/42.png', alt='Texto que describa la imagen')
-          .bg-color-10.p-2.mb-3
-            h3.mb-0.text-center Notion
-          p.text-center Permite organizar mapas de contenido y estructurar información para equipos.
-          p.text-center Sitio de la herramienta:
-          .row.justify-content-center
-            .col-auto 
-              a.boton.color-acento-botones(href="https://www.notion.com/es" target="_blank")
-                span Ir al enlace
-                i.fas.fa-link
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
-        .tarjeta--boton.bg-color-3.h-100.p-4
-          .row.justify-content-center.mb-3
-            .col-6
-              figure
-                img(src='@/assets/curso/tema2/43.png', alt='Texto que describa la imagen')
-          .bg-color-10.p-2.mb-3
-            h3.mb-0.text-center HubSpot
-          p.text-center <em>Software</em> avanzado de gestión de contenido y automatización de <em>marketing</em>.
-          p.text-center Sitio de la herramienta:
-          .row.justify-content-center
-            .col-auto 
-              a.boton.color-acento-botones(href="https://www.hubspot.es/" target="_blank")
-                span Ir al enlace
-                i.fas.fa-link
+        .row.mb-5.justify-content-center
+          .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
+            .tarjeta--boton.bg-color-3.h-100.p-4
+              .row.justify-content-center.mb-3
+                .col-6
+                  figure
+                    img(src='@/assets/curso/tema2/40.png', alt='Texto que describa la imagen')
+              .bg-color-10.p-2.mb-3
+                h3.mb-0.text-center Trello
+              p.text-center Ideal para la planificación visual de contenidos mediante tableros interactivos.
+              p.text-center Sitio de la herramienta:
+              .row.justify-content-center
+                .col-auto 
+                  a.boton.color-acento-botones(href="https://trello.com/es " target="_blank")
+                    span Ir al enlace
+                    i.fas.fa-link
+          .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
+            .tarjeta--boton.bg-color-3.h-100.p-4
+              .row.justify-content-center.mb-3
+                .col-6
+                  figure
+                    img(src='@/assets/curso/tema2/41.png', alt='Texto que describa la imagen')
+              .bg-color-10.p-2.mb-3
+                h3.mb-0.text-center Google calendar
+              p.text-center Facilita la programación y coordinación de publicaciones en distintos medios.
+              p.text-center Sitio de la herramienta:
+              .row.justify-content-center
+                .col-auto 
+                  a.boton.color-acento-botones(href="https://calendar.google.com/calendar/u/0/r?pli=1" target="_blank")
+                    span Ir al enlace
+                    i.fas.fa-link
+          .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
+            .tarjeta--boton.bg-color-3.h-100.p-4
+              .row.justify-content-center.mb-3
+                .col-6
+                  figure
+                    img(src='@/assets/curso/tema2/42.png', alt='Texto que describa la imagen')
+              .bg-color-10.p-2.mb-3
+                h3.mb-0.text-center Notion
+              p.text-center Permite organizar mapas de contenido y estructurar información para equipos.
+              p.text-center Sitio de la herramienta:
+              .row.justify-content-center
+                .col-auto 
+                  a.boton.color-acento-botones(href="https://www.notion.com/es" target="_blank")
+                    span Ir al enlace
+                    i.fas.fa-link
+          .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
+            .tarjeta--boton.bg-color-3.h-100.p-4
+              .row.justify-content-center.mb-3
+                .col-6
+                  figure
+                    img(src='@/assets/curso/tema2/43.png', alt='Texto que describa la imagen')
+              .bg-color-10.p-2.mb-3
+                h3.mb-0.text-center HubSpot
+              p.text-center <em>Software</em> avanzado de gestión de contenido y automatización de <em>marketing</em>.
+              p.text-center Sitio de la herramienta:
+              .row.justify-content-center
+                .col-auto 
+                  a.boton.color-acento-botones(href="https://www.hubspot.es/" target="_blank")
+                    span Ir al enlace
+                    i.fas.fa-link
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up") 
@@ -643,7 +643,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/44.png").mx-auto
             .col-lg
               p.mb-0 <b>Cita de reflexión</b>.  
-              p.mb-0 “La creatividad sin valores puede impresionar, pero la integridad convierte el impacto en legado.”
+              p.mb-0 “La creatividad sin valores puede impresionar, pero la integridad convierte el impacto en legado”.
 
     
       
